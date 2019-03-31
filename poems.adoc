@@ -1,6 +1,8 @@
 
 :toc:
+:toclevels: 4 
 
+==== Poems
 
 ===== St. Francis Prayer
 [verse]
@@ -215,89 +217,6 @@ To scare myself with my own desert places.
 ____
 
 
-===== King James Bible, Corinthians 1 Ch. 13
-[verse]
-____
-Though I speak with the tongues of men and of angels, and 
-  have not charity, I am become as sounding brass, or a tinkling cymbal.
-And though I have the gift of prophecy, and understand all mysteries, 
-  and all knowledge; and though I have all faith, so that I could remove 
-  mountains, and have not charity, I am nothing.
-And though I bestow all my goods to feed the poor, and though I give 
-  my body to be burned, and have not charity, it profiteth me nothing.
-Charity suffereth long, and is kind; charity envieth not;  charity 
-  vaunteth not itself, is not puffed up,
-Doth not behave itself unseemly, seeketh not her own, is not easily
-  provoked, thinketh no evil;
-Rejoiceth not in iniquity, but rejoiceth in the truth;
-Beareth all things, believeth all things, hopeth all things, 
-  endureth all things.
-
-Charity never faileth: but whether there be prophecies, 
-  they shall fail; whether there be tongues, they shall cease; 
-  whether there be knowledge, it shall vanish away.
-For we know in part, and we prophesy in part.
-But when that which is perfect is come, then that which
-  is in part shall be done away.
-When I was a child, I spake as a child, I understood as 
-  a child, I thought as a child: but when I became a man, 
-I put away childish things.
-For now we see through a glass, darkly; but then face to 
-  face: now I know in part; but then shall I know even as 
-  also I am known.
-And now abideth faith, hope, charity, these three; but 
-  the greatest of these is charity.
-____
-
-
-===== King James Bible, Mark Ch. 8, 35-37
-[verse]
-____
-For what shall it profit a man, if he shall gain the whole world, and lose his own soul?
-Or what shall a man give in exchange for his soul?
-____
-
-
-===== No matter where, of comfort no man speak, Richard II by William Shakespeare
-[verse]
-____
-No matter where; of comfort no man speak:
-Let’s talk of graves, of worms, and epitaphs;
-Make dust our paper and with rainy eyes
-Write sorrow on the bosom of the earth,
-Let’s choose executors and talk of wills:
-And yet not so, for what can we bequeath
-Save our deposed bodies to the ground?
-Our lands, our lives and all are Bolingbroke’s,
-And nothing can we call our own but death
-And that small model of the barren earth
-Which serves as paste and cover to our bones.
-For God’s sake, let us sit upon the ground
-And tell sad stories of the death of kings;
-How some have been deposed; some slain in war,
-Some haunted by the ghosts they have deposed;
-Some poison’d by their wives: some sleeping kill’d;
-All murder’d: for within the hollow crown
-That rounds the mortal temples of a king
-Keeps Death his court and there the antic sits,
-Scoffing his state and grinning at his pomp,
-Allowing him a breath, a little scene,
-To monarchize, be fear’d and kill with looks,
-Infusing him with self and vain conceit,
-As if this flesh which walls about our life,
-Were brass impregnable, and humor’d thus
-Comes at the last and with a little pin
-Bores through his castle wall, and farewell king!
-Cover your heads and mock not flesh and blood
-With solemn reverence: throw away respect,
-Tradition, form and ceremonious duty,
-For you have but mistook me all this while:
-I live with bread like you, feel want,
-Taste grief, need friends: subjected thus,
-How can you say to me, I am a king?
-____
-
-
 ===== The Road Not Taken by Robert Frost
 [verse]
 ____ 
@@ -327,13 +246,6 @@ And that has made all the difference.
 ____
 
 
-===== From 'Citizenship in a Republic', by Theodore Roosevelt
-[verse]
-____
-It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.
-____
-
-
 ===== Girder by Nan Cohen 
 [verse]
 ____
@@ -360,13 +272,6 @@ standing on one shore
 
 with the things I cannot leave,
 looking across at what I cannot have. 
-____
-
-
-===== Ernest Hemingway
-[verse]
-____
-The world breaks everyone and afterward many are strong at the broken places. But those that will not break it kills. It kills the very good and the very gentle and the very brave impartially. If you are none of these you can be sure it will kill you too but there will be no special hurry.
 ____
 
 
@@ -439,13 +344,6 @@ An echo from the past when, innocent
 We looked upon the present with delight
 And doubted not the future would be kinder 
 And never knew the loneliness of night. 
-____
-
-
-===== Notebooks (1951-1959) by Albert Camus
-[verse]
-____
-Find meaning. Distinguish melancholy from sadness. Go out for a walk. It doesn’t have to be a romantic walk in the park, spring at its most spectacular moment, flowers and smells and outstanding poetical imagery smoothly transferring you into another world. It doesn’t have to be a walk during which you’ll have multiple life epiphanies and discover meanings no other brain ever managed to encounter. Do not be afraid of spending quality time by yourself. Find meaning or don’t find meaning but 'steal' some time and give it freely and exclusively to your own self. Opt for privacy and solitude. That doesn’t make you antisocial or cause you to reject the rest of the world. But you need to breathe. And you need to be.
 ____
 
 	
@@ -561,17 +459,6 @@ Or only I too small?
 ____
 
 
-===== King James Bible, Matthew Ch. 11, 28-30
-[verse]
-____
-Come unto me, all ye that labour and are heavy laden, and 
-  I will give you rest
-Take my yoke upon you, and learn of me; for I am meek and 
-  lowly in heart: and ye shall find rest unto your souls.
-For my yoke is easy, and my burden is light.
-____
-
-
 ===== The Author Observes His Birthday by John Updike
 [verse]
 ____
@@ -579,13 +466,6 @@ My life, my life with children, was a sluice
 that channeled running water to my pan;
 by tilting it, and swirling lightly, I
 at end of day might find a fleck of gold.
-____
-
-
-===== Second Spring by John Henry Newman
-[verse]
-____
-WE have familiar experience of the order, the constancy, the perpetual renovation of the material world which surrounds us. Frail and transitory as is every part of it, restless and migratory as are its elements, never-ceasing as are its changes, still it abides. It is bound together by a law of permanence, it is set up in unity; and, though it is ever dying, it is ever coming to life again. Dissolution does but give birth to fresh modes of organization, and one death is the parent of a {164} thousand lives. Each hour, as it comes, is but a testimony, how fleeting, yet how secure, how certain, is the great whole. It is like an image on the waters, which is ever the same, though the waters ever flow. Change upon change—yet one change cries out to another, like the alternate Seraphim, in praise and in glory of their Maker. The sun sinks to rise again; the day is swallowed up in the gloom of the night, to be born out of it, as fresh as if it had never been quenched. Spring passes into summer, and through summer and autumn into winter, only the more surely, by its own ultimate return, to triumph over that grave, towards which it resolutely hastened from its first hour. We mourn over the blossoms of May, because they are to wither; but we know, withal, that May is one day to have its revenge upon November, by the revolution of that solemn circle which never stops—which teaches us in our height of hope, ever to be sober, and in our depth of desolation, never to despair.
 ____
 
 
@@ -609,34 +489,6 @@ From these our interviews, in which I steal
 From all I may be, or have been before,
 To mingle with the Universe and feel
 What I can ne’er express, yet can not all conceal.
-____
-
-
-===== King James Bible, Luke Ch. 6, 37
-[verse]
-____
-Judge not, and ye shall not be judged: condemn not, 
-  and ye shall not be condemned: forgive, and ye shall be forgiven: 
-Give, and it shall be given unto you; good measure, pressed down, 
-  and shaken together, and running over, shall men give into your bosom.  
-  For with the same measure that ye mete withal it shall be measured to you again.
-____
-
-
-===== Little Gidding by T.S. Elliot
-[verse]
-____
-We shall not cease from exploration
-And the end of all our exploring
-Will be to arrive where we started
-And know the place for the first time.
-____
-
-
-===== William Carlos Williams
-[verse]
-____
-It is difficult to get the news from poems yet men die miserably every day for lack of what is found there.
 ____
 
 
@@ -736,6 +588,26 @@ But you, when at last the time comes
 That man can aid his fellow man,
 Should think upon us
 With leniency.
+____
+
+
+===== The black poet would love to say this century began by Terrence Hayes
+[verse]
+____
+The black poet would love to say his century began
+With Hughes or, God forbid, Wheatley, but actually
+It began with all the poetry weirdos & worriers, warriors,
+Poetry whiners & winos falling from ship bows, sunset
+Bridges & windows. In a second I’ll tell you how little
+Writing rescues. My hunch is that Sylvia Plath was not
+Especially fun company. A drama queen, thin-skinned,
+And skittery, she thought her poems were ordinary.
+What do you call a visionary who does not recognize
+Her vision? Orpheus was alone when he invented writing.
+His manic drawing became a kind of writing when he sent
+His beloved a sketch of an eye with an X struck through it.
+He meant I am blind without you. She thought he meant
+I never want to see you again. It is possible he meant that, too.
 ____
 
 
@@ -1501,3 +1373,2028 @@ The mountains and the endless plain—
 All, all the stretch of these great green states—
 And make America again! 
 ____
+
+
+===== Friendship After Love by Ella Wheeler Wilcox
+[verse]
+____
+After the fierce midsummer all ablaze 
+    Has burned itself to ashes, and expires 
+    In the intensity of its own fires, 
+There come the mellow, mild, St. Martin days 
+Crowned with the calm of peace, but sad with haze. 
+    So after Love has led us, till he tires 
+    Of his own throes, and torments, and desires, 
+Comes large-eyed friendship: with a restful gaze, 
+He beckons us to follow, and across 
+    Cool verdant vales we wander free from care. 
+    Is it a touch of frost lies in the air? 
+Why are we haunted with a sense of loss? 
+We do not wish the pain back, or the heat; 
+And yet, and yet, these days are incomplete.
+____
+
+
+===== Solitude by Ella Wheeler Wilcox
+[verse]
+____
+Laugh, and the world laughs with you;
+Weep, and you weep alone;
+For the sad old earth must borrow its mirth,
+But has trouble enough of its own.
+Sing, and the hills will answer;
+Sigh, it is lost on the air;
+The echoes bound to a joyful sound,
+But shrink from voicing care.
+
+Rejoice, and men will seek you;
+Grieve, and they turn and go;
+They want full measure of all your pleasure,
+But they do not need your woe.
+Be glad, and your friends are many;
+Be sad, and you lose them all,—
+There are none to decline your nectared wine,
+But alone you must drink life’s gall.
+
+Feast, and your halls are crowded;
+Fast, and the world goes by.
+Succeed and give, and it helps you live,
+But no man can help you die.
+There is room in the halls of pleasure
+For a large and lordly train,
+But one by one we must all file on
+Through the narrow aisles of pain.
+____
+
+
+===== Dilemma by David Budbill
+[verse]
+____
+I want to be
+         famous
+ so I can be
+         humble
+ about being
+         famous.
+
+ What good is my
+         humility
+ when I am
+         stuck
+ in this
+         obscurity?
+____
+
+
+===== Marriage by Lawrence Raab
+[verse]
+____
+Years later they find themselves talking   
+about chances, moments when their lives   
+might have swerved off
+for the smallest reason.
+                                     What if
+I hadn’t phoned, he says, that morning?   
+What if you’d been out,
+as you were when I tried three times   
+the night before?
+                           Then she tells him a secret.   
+She’d been there all evening, and she knew   
+he was the one calling, which was why   
+she hadn’t answered.
+                               Because she felt—
+because she was certain—her life would change   
+if she picked up the phone, said hello,   
+said, I was just thinking
+of you.
+            I was afraid,
+she tells him. And in the morning   
+I also knew it was you, but I just   
+answered the phone
+                            the way anyone
+answers a phone when it starts to ring,   
+not thinking you have a choice.
+____
+
+
+===== What We Miss by Sarah Manguso
+[verse]
+____
+Who says it's so easy to save a life? In the middle of an interview for
+the job you might get you see the cat from the window of the seven-
+teenth floor just as he's crossing the street against traffic, just as
+you're answering a question about your worst character flaw and lying
+that you are too careful. What if you keep seeing the cat at every
+moment you are unable to save him? Failure is more like this than like 
+duels and marathons. Everything can be saved, and bad timing pre-
+vents it. Every minute, you are answering the question and looking 
+out the window of the church to see your one great love blinded by
+the glare, crossing the street, alone. 
+____
+
+
+===== Advice To A Girl by Sarah Tessdale
+[verse]
+____
+No one worth possessing
+Can be quite possessed;
+Lay that on your heart,
+My young angry dear;
+This truth, this hard and precious stone,
+Lay it on your hot cheek,
+Let it hide your tear.
+Hold it like a crystal
+When you are alone
+And gaze in the depths of the icy stone.
+Long, look long and you will be blessed:
+No one worth possessing
+Can be quite possessed.
+____
+
+
+===== [My brother's in Wyoming . . .] by Gary Young
+[verse]
+____
+My brother's in Wyoming, and I've had that dream again. We're fishing. The trout rise, take our bait, and keep rising. In love once with a woman, and with my own capacity for pain, I fell in with some cowboys, and broke my neck riding bulls in a little rodeo. That night, drunk in the bunkhouse, not knowing how badly I'd been hurt, I thought it can't get worse than this, but I was wrong. That was twenty years ago. Thunder rolls down South Fork Canyon. The Milky Way is a great river overhead. My brother is in Wyoming. I miss him more than ever when he's there.
+____
+
+
+===== In My Craft or Sullen Art by Dylan Thomas
+[verse]
+____
+In my craft or sullen art
+Exercised in the still night
+When only the moon rages
+And the lovers lie abed
+With all their griefs in their arms,
+I labour by singing light
+Not for ambition or bread
+Or the strut and trade of charms
+On the ivory stages
+But for the common wages
+Of their most secret heart.
+Not for the proud man apart
+From the raging moon I write
+On these spindrift pages
+Nor for the towering dead
+With their nightingales and psalms
+But for the lovers, their arms
+Round the griefs of the ages,
+Who pay no praise or wages
+Nor heed my craft or art.
+____
+
+
+===== What We Want by Linda Pastan
+[verse]
+____
+What we want
+is never simple.
+We move among the things
+we thought we wanted:
+a face, a room, an open book
+and these things bear our names--
+now they want us.
+But what we want appears
+in dreams, wearing disguises.
+We fall past,
+holding out our arms
+and in the morning
+our arms ache.
+We don't remember the dream,
+but the dream remembers us.
+It is there all day
+as an animal is there
+under the table,
+as the stars are there
+even in full sun. 
+____
+
+
+===== Those Winter Sundays by Robert Hayden
+[verse]
+____
+Sundays too my father got up early
+and put his clothes on in the blueblack cold,
+then with cracked hands that ached
+from labor in the weekday weather made
+banked fires blaze. No one ever thanked him.
+
+I’d wake and hear the cold splintering, breaking.
+When the rooms were warm, he’d call,
+and slowly I would rise and dress,
+fearing the chronic angers of that house,
+
+Speaking indifferently to him,
+who had driven out the cold
+and polished my good shoes as well.
+What did I know, what did I know
+of love’s austere and lonely offices?
+____
+
+
+===== Hailstorm, 1965 by Twyla Hansen
+[verse]
+____
+     Q: What is the largest hailstone in the US?
+     A: There have been six reports of hailstones eight inches in diameter.
+         -The Weather Channel 
+
+It was the summer I turned sixteen, one brother
+was soon to be married and we'd sold the farm.
+I remember wanting desperately to be kissed.
+
+Everything wavered on some kind of edge, elm trees
+a graceful dome over the dusty streets. Nothing to warn,
+only cumulonimbus clouds in the afternoon, intense up—
+
+drafts, sky hazed sulfur-green, hail starting as crystalline
+seeds that grew to marble-size, geometrically then,
+to the size of softballs, clattering heavy against metal,
+
+wood, glass, against the only small world we knew.
+All the west windows in the high school, every roof, 
+field corn stripped down to stubs, lives shattered
+
+that day by crop failure, gouges, even holes in the ground.
+There had never been any guarantee. Always there is
+a risk, a gamble, hard choices to make. My oldest brother
+
+and I scooped out stones that ripped through
+the ragtop of his '62 Impala. I can't imagine hail the size
+of a melon. Somehow that day I sensed that youth
+
+had dissipated, that through the vapor of downed leaves
+and broken branches, there would always be another crisis,
+and another close call, and yet there was something more out there
+
+circling, the open road where I drove west—my oldest brother dozing 
+in the passenger's seat, my learners permit in tow—eighty on I-90
+toward Missoula, toward the end of what we know now as innocence.
+____
+
+
+===== The Undeniable Pressure of Existence by Patricia Fargnoli
+[verse]
+____
+
+I saw the fox running by the side of the road
+past the turned-away brick faces of the condominiums
+past the Citco gas station with its line of cars and trucks
+and he ran, limping, gaunt, matted dull haired
+past Jim's Pizza, past the Wash-O-Mat,
+past the Thai Garden, his sides heaving like bellows
+and he kept running to where the interstate
+crossed the state road and he reached it and he ran on
+under the underpass and beyond it past the perfect
+rows of split-levels, their identical driveways
+their brookless and forestless yards,
+and from my moving car, I watched him,
+helpless to do anything to help him, certain he was beyond
+any aid, any desire to save him, and he ran loping on,
+far out of his element, sick, panting, starving,
+his eyes fixed on some point ahead of him, 
+some possible salvation
+in all this hopelessness, that only he could see.
+____
+
+
+===== Ah Poverties, Wincings, and Sulky Retreats by Walt Whitman
+[verse]
+____
+Ah poverties, wincings, and sulky retreats,
+Ah you foes that in conflict have overcome me,
+(For what is my life or any man's life but a conflict with foes,
+    the old, the incessant war?)
+You degredations, you tussle with passions and appetites,
+You smarts from dissatisfied friendships, (ah wounds the 
+    sharpest of all!)
+You toil of painful and choked articulations, you meannesses,
+You shallow tongue-talks at tables, (my tongue the shallowest of
+    any;)
+You broken resolutions, you racking angers, you smother'd
+    ennuis!
+Ah think not you finally triumph, my real self has yet to come
+    forth,
+It shall yet march forth o'ermastering, till all lies beneath me,
+It shall yet stand up the soldier of ultimate victory.
+____
+
+
+===== Birches by Robert Frost
+[verse]
+____
+When I see birches bend to left and right
+Across the lines of straighter darker trees,
+I like to think some boy's been swinging them.
+But swinging doesn't bend them down to stay
+As ice-storms do. Often you must have seen them
+Loaded with ice a sunny winter morning
+After a rain. They click upon themselves
+As the breeze rises, and turn many-colored
+As the stir cracks and crazes their enamel.
+Soon the sun's warmth makes them shed crystal shells
+Shattering and avalanching on the snow-crust—
+Such heaps of broken glass to sweep away
+You'd think the inner dome of heaven had fallen.
+They are dragged to the withered bracken by the load,
+And they seem not to break; though once they are bowed
+So low for long, they never right themselves:
+You may see their trunks arching in the woods
+Years afterwards, trailing their leaves on the ground
+Like girls on hands and knees that throw their hair
+Before them over their heads to dry in the sun.
+But I was going to say when Truth broke in
+With all her matter-of-fact about the ice-storm
+I should prefer to have some boy bend them
+As he went out and in to fetch the cows—
+Some boy too far from town to learn baseball,
+Whose only play was what he found himself,
+Summer or winter, and could play alone.
+One by one he subdued his father's trees
+By riding them down over and over again
+Until he took the stiffness out of them,
+And not one but hung limp, not one was left
+For him to conquer. He learned all there was
+To learn about not launching out too soon
+And so not carrying the tree away
+Clear to the ground. He always kept his poise
+To the top branches, climbing carefully
+With the same pains you use to fill a cup
+Up to the brim, and even above the brim.
+Then he flung outward, feet first, with a swish,
+Kicking his way down through the air to the ground.
+So was I once myself a swinger of birches.
+And so I dream of going back to be.
+It's when I'm weary of considerations,
+And life is too much like a pathless wood
+Where your face burns and tickles with the cobwebs
+Broken across it, and one eye is weeping
+From a twig's having lashed across it open.
+I'd like to get away from earth awhile
+And then come back to it and begin over.
+May no fate willfully misunderstand me
+And half grant what I wish and snatch me away
+Not to return. Earth's the right place for love:
+I don't know where it's likely to go better.
+I'd like to go by climbing a birch tree,
+And climb black branches up a snow-white trunk
+Toward heaven, till the tree could bear no more,
+But dipped its top and set me down again.
+That would be good both going and coming back.
+One could do worse than be a swinger of birches.
+____
+
+
+===== In Praise of Imperfect Love by Jessica Goodfellow
+[verse]
+____
+Courtesans of tenth century Japan knew
+the keening of the caged copper pheasant,
+solo double-note aria for a missing mate,
+could be silenced with a mirror
+
+The ideal of a love that completes 
+masks a yearning for homeostasis,
+a second umbilical, island fever,
+harmony tighter than unison —
+
+dull as a solved equation;
+like the ex-lover who said,
+"Being with you is like being alone."
+He meant it as a compliment.
+____
+
+
+===== Failing and Flying by Jack Gilbert
+[verse]
+____
+Everyone forgets that Icarus also flew.
+It's the same when love comes to an end,
+or the marriage fails and people say
+they knew it was a mistake, that everybody
+said it would never work. That she was
+old enough to know better. But anything
+worth doing is worth doing badly.
+Like being there by that summer ocean
+on the other side of the island while
+love was fading out of her, the stars
+burning so extravagantly those nights that
+anyone could tell you they would never last.
+Every morning she was asleep in my bed
+like a visitation, the gentleness in her
+like antelope standing in the dawn mist.
+Each afternoon I watched her coming back
+through the hot stony field after swimming,
+the sea light behind her and the huge sky
+on the other side of that. Listened to her
+while we ate lunch. How can they say
+the marriage failed? Like the people who
+came back from Provence (when it was Provence)
+and said it was pretty but the food was greasy.
+I believe Icarus was not failing as he fell,
+but just coming to the end of his triumph.
+____
+
+
+===== Tell Me by Anne Pierson Wiese
+[verse]
+____
+There are many people who spend their nights
+on the subway trains. Often one encounters
+them on the morning commute, settled in corners, 
+coats over their heads, ragged possessions heaped 
+around themselves, trying to remain in their own night.
+
+This man was already up, bracing himself against
+the motion of the train as he folded his blanket
+the way my mother taught me, and donned his antique blazer, 
+his elderly, sleep-soft eyes checking for the total effect.
+
+Whoever you are-tell me what unforgiving series 
+of moments has added up to this one: a man 
+making himself presentable to the world in front 
+of the world, as if life has revealed to him the secret 
+that all our secrets from one another are imaginary. 
+____
+
+
+===== Loss and Gain by Henry Wadsworth Longfellow
+[verse]
+____
+When I compare
+What I have lost with what I have gained,
+What I have missed with what attained,
+  Little room do I find for pride.
+
+     I am aware
+How many days have been idly spent;
+How like an arrow the good intent
+  Has fallen short or been turned aside. 
+
+     But who shall dare
+To measure loss and gain in this wise?
+Defeat may be victory in disguise;
+  The lowest ebb is the turn of the tide. 
+____
+
+
+===== Pity the Elderly Gray Translator by Vladimir Nabokov
+[verse]
+____
+Pity the elderly gray translator
+Who lends to beauty his hollow voice
+And - choosing sometimes a second-rater -
+Mimes the song-fellow of this choice.
+To sacred sense for the sake of meter
+His is seldom traitor as traitors go,
+But pity him when he quakes with Peter
+And waits for the terza rima to crow.
+
+It is not the head of the verse line that'll
+Cause him trouble, nor is it the spine:
+What he really minds is the cursed rattle
+That must be found for the tail of the line.
+Some words by nature are sort of singlish,
+Others have harems of rimes. The word
+"Elephant," for example, walks alone in English
+But its Slavic equivalent goes about in a herd.
+"Woman" is another famous poser
+For none can seriously contemplate
+An American president or a German composer
+In a viable context with the word for mate.
+Since rime is a national repercussion
+(And a local holiday), how bizarre
+That "skies-eyes" should twin in French and Russian:
+"Cieux-yeux," "nebesa-glaza."
+
+Such boons are irrelevant. Sooner or later
+The gentle person, the mime sublime,
+The incorruptible translator
+Is betrayed by lady rime.
+And the poem from the Persian
+And the sonnet spun in Spain
+Perish in the person's version
+And the person dies insane.
+____
+
+
+===== The Long Meadow by Vijay Seshadri
+[verse]
+____
+Near the end of one of the old poems, the son of righteousness,
+the source of virtue and civility,
+on whose back the kingdom is carried
+as on the back of the tortoise the earth is carried,
+passes into the next world.
+The wood is dark. The wood is dark,
+and on the other side of the wood the sea is shallow, warm, endless.
+In and around it, there is no threat of life—
+so little is the atmosphere charged with possibility that
+he might as well be wading through a flooded basement.
+He wades for what seems like forever,
+and never stops to rest in the shade of the metal raintrees
+springing out of the water at fixed intervals.
+Time, though endless, is also short,
+so he wades on, until he walks out of the sea and into the mountains,
+where he burns on the windward slopes and freezes in the valleys.
+After unendurable struggles,
+he finally arrives at the celestial realm.
+The god waits there for him. The god invites him to enter.
+But looking through the glowing portal,
+he sees on that happy plain not those he thinks wait eagerly for him—
+his beloved, his brothers, his companions in war and exile,
+all long since dead and gone—
+but, sitting pretty and enjoying the gorgeous sunset,
+his cousin and bitter enemy, the cause of that war, that exile,
+whose arrogance and vicious indolence
+plunged the world into grief.
+The god informs him that, yes, those he loved have been carried down
+the river of fire. Their thirst for justice
+offended the cosmic powers, who are jealous of justice.
+In their place in the celestial realm, called Alaukika in the ancient texts,
+the breaker of faith is now glorified.
+He, at least, acted in keeping with his nature.
+Who has not felt a little of the despair the son of righteousness now feels,
+staring wildly around him?
+The god watches, not without compassion and a certain wonder.
+This is the final illusion,
+the one to which all the others lead.
+He has to pierce through it himself, without divine assistance.
+He will take a long time about it,
+with only his dog to keep him company,
+the mongrel dog, celebrated down the millennia,
+who has waded with him,
+shivered and burned with him,
+and never abandoned him to his loneliness.
+That dog bears a slight resemblance to my dog,
+a skinny, restless, needy, overprotective mutt,
+who was rescued from a crack house by Suzanne.
+On weekends, and when I can shake free during the week,
+I take her to the Long Meadow, in Prospect Park, where dogs
+are allowed off the leash in the early morning.
+She’s gray-muzzled and old now, but you can’t tell that by the way she runs.
+____
+
+
+===== The Loneliest Job in the World by Tony Hoagland
+[verse]
+____
+As soon as you begin to ask the question, Who loves me?
+you are completely screwed, because
+the next question is How Much?
+
+and then it is hundreds of hours later,
+and you are still hunched over
+your flowcharts and abacus,
+
+trying to decide if you have gotten enough.
+This is the loneliest job in the world:
+to be an accountant of the heart.
+
+It is late at night. You are by yourself,
+and all around you, you can hear
+the sounds of people moving
+
+in and out of love,
+pushing the turnstiles, putting
+their coins in the slots,
+
+paying the price which is asked,
+which constantly changes.
+No one knows why.
+____
+
+
+===== The More Loving One by W. H. Auden
+[verse]
+____
+Looking up at the stars, I know quite well
+That, for all they care, I can go to hell,
+But on earth indifference is the least
+We have to dread from man or beast.
+
+How should we like it were stars to burn
+With a passion for us we could not return?
+If equal affection cannot be,
+Let the more loving one be me.
+
+Admirer as I think I am
+Of stars that do not give a damn,
+I cannot, now I see them, say
+I missed one terribly all day.
+
+Were all stars to disappear or die,
+I should learn to look at an empty sky
+And feel its total dark sublime,
+Though this might take me a little time.
+____
+
+
+===== One of the Butterflies by W.S. Merwin
+[verse]
+____
+The trouble with pleasure is the timing
+it can overtake me without warning
+and be gone before I know it is here
+it can stand facing me unrecognized
+while I am remembering somewhere else
+in another age or someone not seen
+for years and never to be seen again
+in this world and it seems I cherish
+only now a joy I was not aware of
+when it was here although it remains
+out of reach and will not be caught or named
+or called back and if I could make it stay
+as I want to it would turn into pain
+____
+
+
+===== Driving at Night by Sheila Packa
+[verse]
+____
+Up north, the dashboard lights of the family car
+gleam in memory, the radio
+plays to itself as I drive
+my father plied the highways
+while my mother talked, she tried to hide
+that low lilt, that Finnish brogue,
+in the back seat, my sisters and I
+our eyes always tied to the Big Dipper
+I watch it still
+on summer evenings, as the fireflies stream
+above the ditches and moths smack
+into the windshield and the wildlife’s
+red eyes bore out from the dark forests
+we flew by, then scattered like the last bit of star
+light years before.
+It’s like a different country, the past
+we made wishes on unnamed falling stars
+that I’ve forgotten, that maybe were granted
+because I wished for love.
+____
+
+
+===== Sentimental Education by Tony Hoagland
+[verse]
+____
+And when we were eight, or nine,
+our father took us back into the Alabama woods,
+found a rotten log, and with his hunting knife
+
+pried off a slab of bark
+to show the hundred kinds of bugs and grubs
+that we would have to eat in a time of war.
+
+"The ones who will survive," he told us,
+looking at us hard,
+"are the ones who are willing to do anything."
+Then he popped one of those pale slugs
+into his mouth and started chewing.
+
+And that was Lesson Number 4
+in The Green Beret Book of Childrearing.
+
+I looked at my pale, scrawny, knock-kneed, bug-eyed brother,
+who was identical to me,
+and saw that, in a world that ate the weak,
+we didn't have a prayer,
+
+and next thing I remember, I'm working for a living
+at a boring job
+that I'm afraid of losing,
+
+with a wife whose lack of love for me
+is like a lack of oxygen,
+and this dead thing in my chest
+that used to be my heart.
+
+Oh, if he were alive, I would tell him, "Dad,
+you were right! I ate a lot of stuff
+far worse than bugs."
+
+And I was eaten, I was eaten,
+I was picked up
+and chewed
+and swallowed
+
+down into the belly of the world.
+____
+
+
+===== When the Horses Gallop Away from Us, It’s a Good Thing by Charles Wright
+[verse]
+____
+I always find it strange—though I shouldn’t—how creatures don’t
+care for us the way we care for them.
+Horses, for instance, and chipmunks, and any bird you’d name.
+Empathy’s only a one-way street.
+And that’s all right, I’ve come to believe.
+It sets us up for ultimate things,
+  and penultimate ones as well.
+It’s a good lesson to have in your pocket when the 
+  Call comes to call.
+____
+
+
+===== Oil & Steel by Henri Cole
+[verse]
+____
+My father lived in a dirty-dish mausoleum,
+watching a portable black-and-white television,
+reading the Encyclopaedia Britannica,
+which he preferred to Modern Fiction.
+One by one, his schnauzers died of liver disease,
+except the one that guarded his corpse
+found holding a tumbler of Bushmills.
+"Dead is dead," he would say, an antipreacher.
+I took a plaid shirt from the bedroom closet
+and some motor oil—my inheritance.
+Once I saw him weep in a courtroom—
+neglected, needing nursing—this man who never showed
+me much affection but gave me a knack
+for solitude, which has been mostly useful.
+____
+
+
+===== The Flood by Robert Frost
+[verse]
+____
+Blood has been harder to dam back than water.
+Just when we think we have it impounded safe 
+Behind new barrier walls (and let it chafe!),
+It breaks away in some new kind of slaughter.
+We choose to say it is let loose by the devil;
+But power of blood itself releases blood.
+It goes by might of being such a flood
+Held high at so unnatural a level.
+It will have outlet, brave and not so brave.
+weapons of war and implements of peace
+Are but the points at which it finds release.
+And now it is once more the tidal wave
+That when it has swept by leaves summits stained.
+Oh, blood will out. It cannot be contained.
+____
+
+
+===== Her Kid Brother Ran Beside the Car by Marjorie Saiser
+[verse]
+____
+After phoning her father
+she caught a ride from the depot.
+Her kid brother waited at the bridge
+and then ran, grinning, beside the car
+all the way to the house.
+He was taller and bonier than the day she left,
+bib overalls hanging on his shirtless shoulders,
+thick dark hair shaking with his running.
+
+He clammed up and backed off when she
+got out. She held her squirming baby
+and stood at the driver's window to thank
+the neighbor who had given her a ride,
+a long thanks protocol called for.
+Neither father nor mother came to the door,
+one reading the county paper
+and one peeling an extra potato, and it was
+her kid brother who reached for the suitcase
+and ran ahead over the cedar needles
+to open the heavy door.
+____
+
+
+===== Acquainted with the Night by Robert Frost
+[verse]
+____
+I have been one acquainted with the night.
+I have walked out in rain—and back in rain.
+I have outwalked the furthest city light.
+
+I have looked down the saddest city lane.
+I have passed by the watchman on his beat
+And dropped my eyes, unwilling to explain.
+
+I have stood still and stopped the sound of feet
+When far away an interrupted cry
+Came over houses from another street,
+
+But not to call me back or say good-bye;
+And further still at an unearthly height,
+One luminary clock against the sky
+
+Proclaimed the time was neither wrong nor right. 
+I have been one acquainted with the night.
+____
+
+
+===== Brown Penny by William Butler Yeats
+[verse]
+____
+I whispered, 'I am too young,'
+And then, 'I am old enough';
+Wherefore I threw a penny
+To find out if I might love.
+'Go and love, go and love, young man,
+If the lady be young and fair.'
+Ah, penny, brown penny, brown penny,
+I am looped in the loops of her hair.
+
+O love is the crooked thing,
+There is nobody wise enough
+To find out all that is in it,
+For he would be thinking of love
+Till the stars had run away
+And the shadows eaten the moon.
+Ah, penny, brown penny, brown penny,
+One cannot begin it too soon.
+____
+
+
+===== Shoulders by Naomi Shihab Nye
+[verse]
+____
+A man crosses the street in rain,
+stepping gently, looking two times north and south,
+because his son is asleep on his shoulder.
+
+No car must splash him.
+No car drive too near to his shadow.
+
+This man carries the world’s most sensitive cargo
+but he’s not marked.
+Nowhere does his jacket say FRAGILE,
+HANDLE WITH CARE.
+
+His ear fills up with breathing.
+He hears the hum of a boy’s dream
+deep inside him.
+
+We’re not going to be able
+to live in this world
+if we’re not willing to do what he’s doing
+with one another.
+
+The road will only be wide.
+The rain will never stop falling.
+____
+
+
+===== Ode I. 11 by Horace
+[verse]
+____
+Do not inquire, we may not know, what end 
+the Gods will give, Leuconoe, do not attempt 
+Babylonian calculations. The better course is 
+to bear whatever will be, whether Jove allot 
+more winters or this is the last which exhausts 
+the Tuscan sea with pumice rocks opposed. 
+Be wise, decant the wine, prune back 
+your long-term hopes. Life ebbs as I speak– 
+so seize each day, and grant the next no credit. 
+____
+
+
+===== Robert Wilson by Michael Collier 
+[verse]
+____
+Though he is dead now and his miracle
+will do us no good, I must remind myself
+of what he gave, plainly,
+and without guile, to all of us on the crumbling
+flood-gutted bank of the Verde River
+as we watched him, the fat boy,
+the last one to cross, ford the violent shallows.
+And how we provided him the occasion for his grace
+tying his black tennis shoes to a bamboo fishing pole
+and dangling them, like a simple bait,
+out of reach, jerking them higher each time he rose
+from his terrified crouch in the middle
+of the shin-high rapids churning beneath him,
+like an anger he never expressed.
+And yet what moved us was not his earnestness
+in trying to retrieve his shoes, nor his willingness
+to be the butt of our jokes. What moved us
+was how the sun struck the gold attendance star
+pinned on the pocket flap of his uniform
+as he fell head first
+into the water and split his face,
+a gash he quickly hid with his hands,
+though blood leaked through his fingers as he stood
+straight in the river and walked deftly toward us
+out of the water to his shoes
+that lay abandoned at our feet.
+____
+
+
+===== Staying at Grandma's by Jane Kenyon
+[verse]
+____
+Sometimes they left me for the day
+while they went — what does it matter 
+where — away. I sat and watched her work
+the dough, then turn the white shape 
+yellow in a buttered bowl.
+
+A coleus, wrong to my eye because its leaves
+were red, was rooting on the sill
+in a glass filled with water and azure
+marbles. I loved to see the sun
+pass through the blue.
+
+"You know," she'd say, turning
+her straight and handsome back to me,
+"that the body is the temple 
+of the Holy Ghost."
+
+The Holy Ghost, the oh, oh ... the uh
+oh, I thought, studying the toe of my new shoe,
+and glad she wasn't looking at me.
+
+Soon I'd be back in school. No more mornings
+at Grandma's side while she swept the walk
+or shook the dust mop by the neck.
+
+If she loved me why did she say that
+two women would be grinding at the mill,
+that God would come out of the clouds
+when they were least expecting him,
+choose one to be with him in heaven
+and leave the other there alone?
+____
+
+
+===== Shackleton's Decision by Faith Shearin
+[verse]
+____
+At a certain point he decided they could not afford
+the dogs. It was someone's job to take them one by one
+behind a pile of ice and shoot them. I try to imagine
+the arctic night which descended and would not lift,
+
+a darkness that clung to their clothes. Some men objected
+because the dogs were warmth and love, reminders
+of their previous life where they slept in soft beds,
+their bellies warm with supper. Dog tails were made
+
+of joy, their bodies were wrapped in a fur of hope.
+I had to put the book down when I read about the dogs
+walking willingly into death, following orders,
+one clutching an old toy between his teeth. They trusted
+
+the men who led them into this white danger,
+this barren cold. My God, they pulled the sleds
+full of provisions and barked away the Sea Leopards.
+Someone was told to kill the dogs because supplies
+
+were running low and the dogs, gathered around
+the fire, their tongues wet with kindness, knew
+nothing of betrayal; they knew how to sit and come,
+how to please, how to bow their heads, how to stay.
+____
+
+
+===== The courage that my mother had Edna St. Vincent Millay
+[verse]
+____
+The courage that my mother had
+Went with her, and is with her still:
+Rock from New England quarried;
+Now granite in a granite hill.
+
+The golden brooch my mother wore
+She left behind for me to wear;
+I have no thing I treasure more:
+Yet, it is something I could spare.
+
+Oh, if instead she’d left to me
+The thing she took into the grave!—
+That courage like a rock, which she
+Has no more need of, and I have.
+____
+
+
+===== Stop all the clocks, cut off the telephone by W.H. Auden
+[verse]
+____
+Stop all the clocks, cut off the telephone, 
+Prevent the dog from barking with a juicy bone, 
+Silence the pianos and with muffled drum 
+Bring out the coffin, let the mourners come. 
+
+Let aeroplanes circle moaning overhead 
+Scribbling on the sky the message He Is Dead, 
+Put crepe bows round the white necks of the public doves, 
+Let the traffic policemen wear black cotton gloves. 
+
+He was my North, my South, my East and West, 
+My working week and my Sunday rest, 
+My noon, my midnight, my talk, my song; 
+I thought that love would last for ever: I was wrong. 
+
+The stars are not wanted now: put out every one; 
+Pack up the moon and dismantle the sun; 
+Pour away the ocean and sweep up the wood; 
+For nothing now can ever come to any good. 
+____
+
+
+===== The Story of Ferdinand the Bull by Matt Mason
+[verse]
+____
+Dad would come home after too long at work
+and I’d sit on his lap to hear
+the story of Ferdinand the Bull; every night,
+me handing him the red book until I knew
+every word, couldn’t read,
+just recite along with drawings
+of a gentle bull, frustrated matadors,
+the all-important bee, and flowers—
+flowers in meadows and flowers
+thrown by the Spanish ladies.
+Its lesson, really,
+about not being what you’re born into
+but what you’re born to be,
+even if that means
+not caring about the capes they wave in your face
+or the spears they cut into your shoulders.
+And Dad, wonderful Dad, came home
+after too long at work
+and read to me
+the same story every night
+until I knew every word, couldn’t read,
+                                                                              just recite.
+____
+
+
+===== The Last Swim of Summer by Jonathan Galassi
+[verse]
+____
+ought to be swum
+without knowing it,
+afternoon lost to
+re-finding the rock
+you can stand on
+way out past the
+raft, the flat one
+that lines up four-
+square with the door
+of the boathouse.
+
+Freestyle and back-
+stroke and hours on
+the dock nattering
+on while the low sun
+keeps setting fin-
+gers and toes getting
+number and number …
+how could we know
+we were swimming the
+last swim of summer?
+____
+
+
+===== One Good Thing by Edwin Romond
+[verse]
+____
+It's been a dead parade
+of hours since 5 AM
+a march of the bland
+with the meaningless and
+I can think of nothing
+I have done to merit
+mentioning or
+remembering.
+
+But now, at 8 pm,
+I am bathing my son
+in a tub filled with bubbles
+and blue battleships,
+the soapy water over
+his Irish white skin
+makes him glisten
+like a glazed doughnut
+
+and I should tell him
+to stop splashing
+but this is the first time
+all day I have felt like living
+so how can I scold
+my boy who's found joy
+in something ordinary
+as water? And when
+
+I wash his hair
+with Buzz Lightyear
+shampoo, Liam
+closes his eyes and
+smiles like a puppy
+being petted as I massage 
+the sweet lotion into 
+his red curls and I know
+
+this is one good thing
+I have done with my life
+this day that has waited
+for this moment
+of water on my sleeve
+and soap on my nose
+to turn emptiness
+into ecstasy.
+____
+
+
+===== Choose Something Like a Star by Robert Frost
+[verse]
+____
+O Star (the fairest one in sight),
+We grant your loftiness the right
+To some obscurity of cloud—
+It will not do to say of night,
+Since dark is what brings out your light.
+Some mystery becomes the proud.
+But to be wholly taciturn
+In your reserve is not allowed.
+Say something to us we can learn
+By heart and when alone repeat.
+Say something! And it says, ‘I burn.’
+But say with what degree of heat.
+Talk Fahrenheit, talk Centigrade.
+Use language we can comprehend.
+Tell us what elements you blend.
+It gives us strangely little aid,
+But does tell something in the end.
+And steadfast as Keats’ Eremite,
+Not even stooping from its sphere,
+It asks a little of us here.
+It asks of us a certain height,
+So when at times the mob is swayed
+To carry praise or blame too far,
+We may choose something like a star
+To stay our minds on and be staid.
+____
+
+
+===== First Skating Party by Joseph Mills
+[verse]
+____
+Dozens of kids circle
+the worn wooden floor
+on old rental skates,
+and none of them wear
+helmets or pads,
+so when they collide
+or fall or stop themselves
+by the simple technique
+of steering straight
+into the cinder-block barrier,
+you can feel the pain
+of the parents
+who watch from booths
+by the concession stand;
+they know their children
+have bones of balsa
+and skin that tears
+as easily as a napkin,
+but they can do nothing
+except yell, Be Careful!
+and make hand gestures
+to slow down
+                             —Slow Down!—
+as the ones they love
+strobe past them
+faster and faster
+just beyond their reach.
+____
+
+
+===== The Tuft of FLowers by Robert Frost
+[verse]
+____
+I went to turn the grass once after one
+Who mowed it in the dew before the sun.
+ 
+The dew was gone that made his blade so keen
+Before I came to view the levelled scene.
+ 
+I looked for him behind an isle of trees;
+I listened for his whetstone on the breeze.
+ 
+But he had gone his way, the grass all mown,
+And I must be, as he had been,—alone,
+ 
+'As all must be,’ I said within my heart,
+'Whether they work together or apart.’
+ 
+But as I said it, swift there passed me by
+On noiseless wing a ‘wildered butterfly,
+ 
+Seeking with memories grown dim o’er night
+Some resting flower of yesterday’s delight.
+ 
+And once I marked his flight go round and round,
+As where some flower lay withering on the ground.
+ 
+And then he flew as far as eye could see,
+And then on tremulous wing came back to me.
+ 
+I thought of questions that have no reply,
+And would have turned to toss the grass to dry;
+ 
+But he turned first, and led my eye to look
+At a tall tuft of flowers beside a brook,
+ 
+A leaping tongue of bloom the scythe had spared
+Beside a reedy brook the scythe had bared.
+ 
+I left my place to know them by their name,
+Finding them butterfly weed when I came.
+ 
+The mower in the dew had loved them thus,
+By leaving them to flourish, not for us,
+ 
+Nor yet to draw one thought of ours to him.
+But from sheer morning gladness at the brim.
+ 
+The butterfly and I had lit upon,
+Nevertheless, a message from the dawn,
+ 
+That made me hear the wakening birds around,
+And hear his long scythe whispering to the ground,
+ 
+And feel a spirit kindred to my own;
+So that henceforth I worked no more alone;
+ 
+But glad with him, I worked as with his aid,
+And weary, sought at noon with him the shade;
+ 
+And dreaming, as it were, held brotherly speech
+With one whose thought I had not hoped to reach.
+ 
+'Men work together,’ I told him from the heart,
+'Whether they work together or apart.’
+____
+
+
+===== Song of the Shattering Vessles by Peter Cole
+[verse]
+____
+Either the world is coming together,
+or else the world is falling apart —
+     here — now — along these letters,
+     against the walls of every heart. 
+
+Today, tomorrow, within its weather,
+the end or beginning’s about to start —
+     the world impossibly coming together
+     or very possibly falling apart.
+
+Now the lovers’ mouths are open —
+maybe the miracle’s about to start:
+      the world within us coming together,
+      because all around us it’s falling apart. 
+
+Even as they speak, he wonders,
+even as the fear departs:
+     Is that the world coming together?
+     Can they keep it from falling apart?
+
+The image, gradually, is growing sharper;
+now the sound is like a dart:
+     It seemed their world was coming together,
+     but in fact it was falling apart.
+
+That’s the nightmare, that’s the terror,
+that’s the Isaac of this art —
+     which sees that the world might come together
+      if only we’re willing to take it apart. 
+
+The dream, the lure, is the prayer’s answer,
+which can’t be plotted on any chart —
+    as we know the world that’s coming together
+    without our knowing is falling apart.
+____
+
+===== From As One Put Drunk into the Pocket-Boat, by John Ashbery
+[verse]
+____
+But the summer
+Was well along, not yet past the mid-point
+But full and dark with the promise of that fullness,
+That time when one can no longer wander away
+And even the least attentive fall silent
+To watch the thing that is prepared to happen.
+____
+
+[verse]
+____
+The summer demands and takes away too much,
+But night, the reserved, the reticent, gives more than it takes.
+____
+
+
+==== Quotations
+
+
+===== From Little Gidding by T.S. Elliot
+[verse]
+____
+We shall not cease from exploration
+And the end of all our exploring
+Will be to arrive where we started
+And know the place for the first time.
+____
+
+
+===== From Citizenship in a Republic by Theodore Roosevelt
+[verse]
+____
+It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.
+____
+
+
+===== From Walden by Henry David Thoreau
+[verse]
+____
+The mass of men lead lives of quiet desperation. What is called resignation is confirmed desperation. From the desperate city you go into the desperate country, and have to console yourself with the bravery of minks and muskrats. A stereotyped but unconscious despair is concealed even under what are called the games and amusements of mankind. There is no play in them, for this comes after work. But it is a characteristic of wisdom not to do desperate things.”
+____
+
+
+===== From Self-Reliance by Ralph Waldo Emerson
+[verse]
+____
+A man should learn to detect and watch that gleam of light which flashes across his mind from within, more than the lustre of the firmament of bards and sages.
+____
+
+[verse]
+____
+There is a time in every man’s education when he arrives at the conviction that envy is ignorance; that imitation is suicide; that he must take himself for better, for worse, as his portion; that though the wide universe is full of good, no kernel of nourishing corn can come to him but through his toil bestowed on that plot of ground which is given to him to till.
+____
+
+[verse]
+____
+It is easy in the world to live after the world’s opinion; it is easy in solitude to live after our own; but the great man is he who in the midst of the crowd keeps with perfect sweetness the independence of solitude. 
+
+The objection to conforming to usages that have become dead to you is that it scatters your force. It loses your time and blurs the impression of your character. If you maintain a dead church, contribute to a dead Bible-society, vote with a great party either for the government or against it, spread your table like base housekeepers—under all these screens I have difficulty to detect the precise man you are: and of course so much force is withdrawn from your proper life. But do your work, and I shall know you.
+____
+
+[verse]
+____
+We want men and women who shall renovate life and our social state, but we see that most natures are insolvent, cannot satisfy their own wants, have an ambition out of all proportion to their practical force and do lean and beg day and night continually. Our housekeeping is mendicant, our arts, our occupations, our marriages, our religion we have not chosen, but society has chosen for us. We are parlor soldiers. We shun the rugged battle of fate, where strength is born.
+____
+
+[verse]
+____
+Insist on yourself; never imitate. Your own gift you can present every moment with the cumulative force of a whole life’s cultivation; but of the adopted talent of another you have only an extemporaneous half possession. That which each can do best, none but his Maker can teach him. No man yet knows what it is, nor can, till that person has exhibited it. Where is the master who could have taught Shakspeare? Where is the master who could have instructed Franklin, or Washington, or Bacon, or Newton? Every great man is a unique. The Scipionism of Scipio is precisely that part he could not borrow. Shakspeare will never be made by the study of Shakspeare. Do that which is assigned you, and you cannot hope too much or dare too much. There is at this moment for you an utterance brave and grand as that of the colossal chisel of Phidias, or trowel of the Egyptians, or the pen of Moses or Dante, but different from all these. Not possibly will the soul, all rich, all eloquent, with thousand-cloven tongue, deign to repeat itself; but if you can hear what these patriarchs say, surely you can reply to them in the same pitch of voice; for the ear and the tongue are two organs of one nature. Abide in the simple and noble regions of thy life, obey thy heart, and thou shalt reproduce the Foreworld again.
+____
+
+
+===== From Portrait of an Artist as a Young Man by James Joyce
+[verse]
+____
+You have asked me what I would do and what I would not do. I will tell you what I will do and what I will not do. I will not serve that in which I no longer believe whether it call itself my home, my fatherland or my church: and I will try to express myself in some mode of life or art as freely as I can and as wholly as I can, using for my defence the only arms I allow myself to use -- silence, exile, and cunning...You made me confess the fears that I have. But I will tell you also what I do not fear. I do not fear to be alone or to be spurned for another or to leave whatever I have to leave. And I am not afraid to make a mistake, even a great mistake, a lifelong mistake and perhaps as long as eternity too
+____
+
+
+===== From Juliet Ceasar by William Shakespeare
+[verse]
+____
+There is a tide in the affairs of men.
+Which, taken at the flood, leads on to fortune;
+Omitted, all the voyage of their life
+Is bound in shallows and in miseries.
+On such a full sea are we now afloat,
+And we must take the current when it serves,
+Or lose our ventures.
+____
+
+
+===== From Richard II by William Shakespeare
+[verse]
+____
+No matter where; of comfort no man speak:
+Let’s talk of graves, of worms, and epitaphs;
+Make dust our paper and with rainy eyes
+Write sorrow on the bosom of the earth,
+Let’s choose executors and talk of wills:
+And yet not so, for what can we bequeath
+Save our deposed bodies to the ground?
+Our lands, our lives and all are Bolingbroke’s,
+And nothing can we call our own but death
+And that small model of the barren earth
+Which serves as paste and cover to our bones.
+For God’s sake, let us sit upon the ground
+And tell sad stories of the death of kings;
+How some have been deposed; some slain in war,
+Some haunted by the ghosts they have deposed;
+Some poison’d by their wives: some sleeping kill’d;
+All murder’d: for within the hollow crown
+That rounds the mortal temples of a king
+Keeps Death his court and there the antic sits,
+Scoffing his state and grinning at his pomp,
+Allowing him a breath, a little scene,
+To monarchize, be fear’d and kill with looks,
+Infusing him with self and vain conceit,
+As if this flesh which walls about our life,
+Were brass impregnable, and humor’d thus
+Comes at the last and with a little pin
+Bores through his castle wall, and farewell king!
+Cover your heads and mock not flesh and blood
+With solemn reverence: throw away respect,
+Tradition, form and ceremonious duty,
+For you have but mistook me all this while:
+I live with bread like you, feel want,
+Taste grief, need friends: subjected thus,
+How can you say to me, I am a king?
+____
+
+
+===== From King James Bible
+[verse]
+____
+Hebrews, Ch. 12, 1
+Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us,
+____
+
+[verse]
+____
+Corinthians 1, Ch. 13
+Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.
+
+And though I have the gift of prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing.
+
+And though I bestow all my goods to feed the poor, and though I give my body to be burned, and have not charity, it profiteth me nothing.
+
+Charity suffereth long, and is kind; charity envieth not;  charity vaunteth not itself, is not puffed up,
+
+Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil;
+
+Rejoiceth not in iniquity, but rejoiceth in the truth;
+
+Beareth all things, believeth all things, hopeth all things, endureth all things.
+
+Charity never faileth: but whether there be prophecies, they shall fail; whether there be tongues, they shall cease; whether there be knowledge, it shall vanish away.
+
+For we know in part, and we prophesy in part.
+
+But when that which is perfect is come, then that which is in part shall be done away.
+
+When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man,
+
+I put away childish things.
+
+For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known.
+
+And now abideth faith, hope, charity, these three; but the greatest of these is charity.
+____
+
+[verse]
+____
+Mark, Ch. 8, 35-37
+For what shall it profit a man, if he shall gain the whole world, and lose his own soul?
+
+Or what shall a man give in exchange for his soul?
+____
+
+[verse]
+____
+Matthew, Ch. 6 19-23
+Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal:
+
+But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:
+
+For where your treasure is, there will your heart be also.
+
+The light of the body is the eye: if therefore thine eye be single, thy whole body shall be full of light.
+
+But if thine eye be evil, thy whole body shall be full of darkness. If therefore the light that is in thee be darkness, how great is that darkness!
+____
+
+[verse]
+____
+Matthew, Ch. 11, 28-30
+Come unto me, all ye that labour and are heavy laden, and I will give you rest
+
+Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.
+
+For my yoke is easy, and my burden is light.
+____
+
+[verse]
+____
+Luke, Ch. 6, 37
+Judge not, and ye shall not be judged: condemn not, and ye shall not be condemned: forgive, and ye shall be forgiven:
+
+Give, and it shall be given unto you; good measure, pressed down, and shaken together, and running over, shall men give into your bosom.  For with the same measure that ye mete withal it shall be measured to you again.
+____
+
+[verse]
+____
+Timothy, Ch. 6, 3-12
+If any man teach otherwise, and consent not to wholesome words, even the words of our Lord Jesus Christ, and to the doctrine which is according to godliness;
+
+He is proud, knowing nothing, but doting about questions and strifes of words, whereof cometh envy, strife, railings, evil surmisings,
+
+Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw thyself.
+
+But godliness with contentment is great gain.
+
+For we brought nothing into this world, and it is certain we can carry nothing out.
+
+And having food and raiment let us be therewith content.
+
+But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition.
+
+For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.
+
+But thou, O man of God, flee these things; and follow after righteousness, godliness, faith, love, patience, meekness.
+
+Fight the good fight of faith, lay hold on eternal life, whereunto thou art also called, and hast professed a good profession before many witnesses.
+____
+
+
+===== From Notebooks (1951-1959) by Albert Camus
+[verse]
+____
+Find meaning. Distinguish melancholy from sadness. Go out for a walk. It doesn’t have to be a romantic walk in the park, spring at its most spectacular moment, flowers and smells and outstanding poetical imagery smoothly transferring you into another world. It doesn’t have to be a walk during which you’ll have multiple life epiphanies and discover meanings no other brain ever managed to encounter. Do not be afraid of spending quality time by yourself. Find meaning or don’t find meaning but 'steal' some time and give it freely and exclusively to your own self. Opt for privacy and solitude. That doesn’t make you antisocial or cause you to reject the rest of the world. But you need to breathe. And you need to be.
+____
+
+
+===== From Second Spring by John Henry Newman
+[verse]
+____
+WE have familiar experience of the order, the constancy, the perpetual renovation of the material world which surrounds us. Frail and transitory as is every part of it, restless and migratory as are its elements, never-ceasing as are its changes, still it abides. It is bound together by a law of permanence, it is set up in unity; and, though it is ever dying, it is ever coming to life again. Dissolution does but give birth to fresh modes of organization, and one death is the parent of a {164} thousand lives. Each hour, as it comes, is but a testimony, how fleeting, yet how secure, how certain, is the great whole. It is like an image on the waters, which is ever the same, though the waters ever flow. Change upon change—yet one change cries out to another, like the alternate Seraphim, in praise and in glory of their Maker. The sun sinks to rise again; the day is swallowed up in the gloom of the night, to be born out of it, as fresh as if it had never been quenched. Spring passes into summer, and through summer and autumn into winter, only the more surely, by its own ultimate return, to triumph over that grave, towards which it resolutely hastened from its first hour. We mourn over the blossoms of May, because they are to wither; but we know, withal, that May is one day to have its revenge upon November, by the revolution of that solemn circle which never stops—which teaches us in our height of hope, ever to be sober, and in our depth of desolation, never to despair.
+____
+
+
+===== From Religion of the Day by John Henry Newman
+[verse]
+____
+Dare not to think you have got to the bottom of your hearts; you do not know what evil lies there.
+____
+
+
+===== From Jeroboam by John Henry Newman
+[verse]
+____
+Sin is a hard master; once sold over to it, we cannot break our chain; one evil concession requires another.
+____
+
+
+===== From Bloof Meridian by Cormac McCarthy
+[verse]
+____
+Only now is the child finally divested of all that he has been. His origins are become remote as is his destiny and not again in all the world's turning will there be terrains so wild and barbarous to try whether the stuff of creation may be shaped to man's will or whether his own heart is not another kind of clay.
+____
+[verse]
+____
+They walked on into the dark and they slept like dogs in the sand and had been sleeping so when something black flapped up out of the night ground and perched on Sproule's chest. Fine fingerbones stayed the leather wings with which it steadied as it walked upon him. A wrinkled pug face, small and vicious, bare lips crimped in a
+horrible smile and teeth pale blue in the starlight. It leaned to him. It crafted in his neck two narrow grooves and folding its wings over him it began to drink his blood.
+
+Not soft enough. He woke, put up a hand. He shrieked and the bloodbat flailed and sat back upon his chest and righted itself again and hissed and clicked its teeth.
+
+The kid was up and had seized a rock but the bat sprang away and vanished in the dark. Sproule was clawing at his neck and he was gibbering hysterically and when he saw the kid standing there looking down at him he held out to him his bloodied hands
+as if in accusation and then clapped them to his ears and cried out what it seemed he himself would not hear, a howl of such outrage as to stitch a caesura in the pulsebeat of the world. But the kid only spat into the darkness of the space between them. I
+know your kind, he said. What's wrong with you is wrong all the way through you.
+____
+[verse]
+____
+The judge like a great ponderous djinn stepped through the fire and the flames delivered him up as if he were in some way native to their element. He put his arms around Glanton. Someone snatched the old woman’s blindfold from her and she and the juggler were clouted away and when the company turned in to sleep and the low fire was roaring in the blast like a thing alive these four yet crouched at the edge of the firelight among their strange chattels and watched how the ragged flames fled down the wind as if sucked by some maelstrom out there in the void, some vortex in that waste apposite to which man’s transit and his reckonings alike lay abrogate. As if beyond will or fate he and his beasts and his trappings moved both in card and in substance under consignment to some third and other destiny.
+____
+[verse]
+____
+Far out on the desert to the north dustspouts rose wobbling and augered the earth and some said they'd heard of pilgrims borne aloft like dervishes in those mindless coils to be dropped broken and bleeding upon the desert again and there perhaps to watch the thing that had destroyed them lurch onward like some drunken djinn and resolve itself once more into the elements from which it sprang. Out of that whirlwind no voice spoke and the pilgrim lying in his broken bones may cry out and in his anguish he may rage, but rage at what? And if the dried and blackened shell of him is found among the sands by travelers to come yet who can discover the engine of his ruin?
+____
+[verse]
+____
+If much in the world were mystery the limits of that world were not, for it was without measure or bound and there were contained within it creatures more horrible yet and men of other colors and beings which no man has looked upon and yet not alien none of it more than were their own hearts alien in them, whatever wilderness contained there and whatever beasts.
+____
+[verse]
+____
+The father dead has euchered the son out of his patrimony. For it is the death of the father to which the son is entitled and to which he is heir, more so than his goods. He will not hear of the small mean ways that tempered the man in life. He will not see him struggling in follies of his own devising. No. The world which he inherits bears him false witness.  He is broken before a frozen god and he will never find his way.
+____
+[verse]
+____
+The man who believes that the secrets of the world are forever hidden lives in mystery and fear. Superstition will drag him down. The rain will erode the deeds of his life. But that man who sets himself the task of singling out the thread of order from the tapestry will by the decision alone have taken charge of the world and it is only by such taking charge that he will effect a way to dictate the terms of his own fate.
+____
+[verse]
+____
+A man seeks his own destiny and no other, said the judge. Will or nill. Any man who could discover his own fate and elect therefore some opposite course could only come at last to that selfsame reckoning at the same appointed time, for each man's destiny is as large as the world he inhabits and contains within it all opposites as well. This desert upon which so many have been broken is vast and calls for largeness of heart but it is also ultimately empty. It is hard, it is barren. Its very nature is stone.
+
+...The world goes on. We have dancing nightly and this night is no exception. The straight and the winding way are one and now that you are here what do the years count since last we two met together? Men's memories are uncertain and the past that was differs little from the past that was not.
+____
+
+
+===== From Moby Dick by Herman Melville
+[verse]
+____
+Whenever I find myself growing grim about the mouth; whenever it is a damp, drizzly November in my soul; whenever I find myself involuntarily pausing before coffin warehouses, and bringing up the rear of every funeral I meet; and especially whenever my hypos get such an upper hand of me, that it requires a strong moral principle to prevent me from deliberately stepping into the street, and methodically knocking people's hats off--then, I account it high time to get to sea as soon as I can. This is my substitute for pistol and ball. With a philosophical flourish Cato throws himself upon his sword; I quietly take to the ship.
+____
+
+[verse]
+____
+Where lies the final harbor, whence we unmoor no more? In what rapt ether sails the world, of which the weariest will never weary? Where is the foundling’s father hidden? Our souls are like those orphans whose unwedded mothers die in bearing them: the secret of our paternity lies in their grave, and we must there to learn it.
+____
+
+[verse]
+____
+Know ye now, Bulkington? Glimpses do ye seem to see of that mortally intolerable truth; that all deep, earnest thinking is but the intrepid effort of the soul to keep the open independence of her sea; while the wildest winds of heaven and earth conspire to cast her on the treacherous, slavish shore?
+
+But as in landlessness alone resides highest truth, shoreless, indefinite as God- so better is it to perish in that howling infinite, than be ingloriously dashed upon the lee, even if that were safety! For worm-like, then, oh! who would craven crawl to land! Terrors of the terrible! is all this agony so vain? Take heart, take heart, O Bulkington! Bear thee grimly, demigod! Up from the spray of thy ocean-perishing- straight up, leaps thy apotheosis!
+____
+
+[verse]
+____
+But were the coming narrative to reveal in any instance, the complete abasement of poor Starbuck's fortitude, scarce might I have the heart to write it; for it is a thing most sorrowful, nay shocking, to expose the fall of valour in the soul. Men may seem detestable as joint stock-companies and nations; knaves, fools, and murderers there may be; men may have mean and meagre faces; but man, in the ideal, is so noble and so sparkling, such a grand and glowing creature, that over any ignominious blemish in him all his fellows should run to throw their costliest robes. That immaculate manliness we feel within ourselves, so far within us, that it remains intact though all the outer character seem gone; bleeds with keenest anguish at the undraped spectacle of a valor-ruined man. Nor can piety itself, at such a shameful sight, completely stifle her upbraidings against the permitting stars. But this august dignity I treat of, is not the dignity of kings and robes, but that abounding dignity which has no robed investiture. Thou shalt see it shining in the arm that wields a pick or drives a spike; that democratic dignity which, on all hands, radiates without end from God; Himself! The great God absolute! The centre and circumference of all democracy! His omnipresence, our divine equality!
+____
+
+[verse]
+____
+Hark ye yet again,--the little lower layer. All visible objects, man, are but as pasteboard masks. But in each event--in the living act, the undoubted deed—there, some unknown but still reasoning thing puts forth the mouldings of its features from behind the unreasoning mask. If man will strike, strike through the mask! How can the prisoner reach outside except by thrusting through the wall? To me, the white whale is that wall, shoved near to me. Sometimes I think there’s naught beyond. But ‘tis enough.  He tasks me; he heaps me; I see in him outrageous strength, with an inscrutable malice sinewing it. That inscrutable thing is chiefly what I hate; and be the white whale agent, or be the white whale principal, I will wreak that hate upon him.  Talk not to me of blasphemy, man; I'd strike the sun if it insulted me.
+____
+
+[verse]
+____
+So, cutting the lashing of the waterproof match keg, after many failures Starbuck contrived to ignite the lamp in the lantern; then stretching it on a waif pole, handed it to Queequeg as the standard-bearer of this forlorn hope. There, then, he sat, holding up that imbecile candle in the heart of that almighty forlornness. There, then, he sat, the sign and symbol of a man without faith, hopelessly holding up hope in the midst of despair.
+____
+
+[verse]
+____
+Give not thyself up, then, to fire, lest it invert thee, deaden thee, as for the time it did me. There is a wisdom that is woe; but there is a woe that is madness.
+____
+
+[verse]
+____
+What is it, what nameless, inscrutable, unearthly thing is it; what cozening, hidden lord and master, and cruel, remorseless emperor commands me; that against all natural lovings and longings, I so keep pushing, and crowding, and jamming myself on all the time; recklessly making me ready to do what in my own proper, natural heart, I durst not so much as dare? Is Ahab, Ahab? Is it I, God, or who, that lifts this arm? But if the great sun move not of himself; but is as an errand-boy in heaven; nor one single star can revolve, but by some invisible power; how then can this one small heart beat; this one small brain think thoughts; unless God does that beating, does that thinking, does that living, and not I. By heaven, man, we are turned round and round in this world, like yonder windlass, and Fate is the handspike.
+____
+
+
+From Nobel Prize Speech by William Faulkner
+[verse]
+____
+It is easy enough to say that man is immortal simply because he will endure: that when the last dingdong of doom has clanged and faded from the last worthless rock hanging tideless in the last red and dying evening, that even then there will still be one more sound: that of his puny inexhaustible voice, still talking. I refuse to accept this. I believe that man will not merely endure: he will prevail. He is immortal, not because he alone among creatures has an inexhaustible voice, but because he has a soul, a spirit capable of compassion and sacrifice and endurance. The poet's, the writer's, duty is to write about these things. It is his privilege to help man endure by lifting his heart, by reminding him of the courage and honor and hope and pride and compassion and pity and sacrifice which have been the glory of his past. The poet's voice need not merely be the record of man, it can be one of the props, the pillars to help him endure and prevail.
+____
+
+
+===== From On the Shortness of Life by Seneca
+[verse]
+____
+In the present we have only one day at a time, each offering a minute at a time. But all the days of the past will come to your call: you can detain and inspect them at your will—something which the preoccupied have no time to do. It is the mind which is tranquil and free from care which can roam through all the stages of its life: the minds of the preoccupied, as if harnessed in a yoke, cannot turn round and look behind them. So their lives vanish into an abyss, and just as it is no use pouring any amount of liquid into a container without a bottom to catch and hold it, so it does not matter how much time we are given if there is nowhere for it to settle; it escapes through the cracks and holes of the mind. The present time is extremely short, so much so that some people are unaware of it. For it is always on the move, flowing on in a rush; it ceases before it has come and does not suffer delay any more than the firmament or the stars, whose unceasing movement never pauses in the same place. And so the preoccupied are concerned only with the present, and it is so short that it cannot be grasped, and even this is stolen from them while they are involved in their many distractions.
+____
+
+
+===== From The Histories by Herodotus
+[verse]
+____
+No man is ever self-sufficient - there is sure to be something missing.  But whoever has the greatest number of good things I have maintained and keeps them to the end and dies a peaceful death, that man, my lord Croesus, deserves in my opinion to be called happy.
+
+Look to the end, no matter what it is you are considering.  Often enough Zeus gives a man a glimpse of happiness, and then utterly ruins him.
+____
+
+
+===== From Swann's Way by Marcel Proust
+[verse]
+____
+And so I must set forth without viaticum; must climb each step of the staircase ‘against my heart,’ as the saying is, climbing in opposition to my heart’s desire, which was to return to my mother, since she had not, by her kiss, given my heart leave to accompany me forth. That hateful staircase, up which I always passed with such dismay, gave out a smell of varnish which had to some extent absorbed, made definite and fixed the special quality of sorrow that I felt each evening, and made it perhaps even more cruel to my sensibility because, when it assumed this olfactory guise, my intellect was powerless to resist it. When we have gone to sleep with a maddening toothache and are conscious of it only as a little girl whom we attempt, time after time, to pull out of the water, or as a line of Molière which we repeat incessantly to ourselves, it is a great relief to wake up, so that our intelligence can disentangle the idea of toothache from any artificial semblance of heroism or rhythmic cadence. It was the precise converse of this relief which I felt when my anguish at having to go up to my room invaded my consciousness in a manner infinitely more rapid, instantaneous almost, a manner at once insidious and brutal as I breathed in — a far more poisonous thing than any moral penetration — the peculiar smell of the varnish upon that staircase.
+____
+
+[verse]
+____
+And so it is with our own past. It is a labour in vain to attempt to recapture it: all the efforts of our intellect must prove futile. The past is hidden somewhere outside the realm, beyond the reach of intellect, in some material object (in the sensation which that material object will give us) of which we have no inkling. And it depends on chance whether or not we come upon this object before we ourselves must die.
+____
+
+[verse]
+____
+I put down the cup and examine my own mind. It alone can discover the truth. But how: What an abyss of uncertainty, whenever the mind feels overtaken by itself; when it, the seeker, is at the same time the dark region through which it must go seeking and where all its equipment will avail it nothing. Seek? More than that: create. It is face to face with something which does not yet exist, to which it alone can give reality and substance, which it alone can bring into the light of day.
+
+And then for the second time I clear an empty space in front of it. I place in position before my mind’s eye the still recent taste of that first mouthful, and I feel something start within me, something that leaves its resting-place and attempts to rise, something that has been embedded like an anchor at a great depth; I do not know yet what it is, but I can feel it mounting slowly; I can measure the resistance, I can hear the echo of great spaces traversed.
+
+Will it ultimately reach the clear surface of my consciousness, this memory, this old, dead moment which the magnetism of an identical moment has travelled so far to importune, to disturb, to raise up out of the very depths of my being? I cannot tell. Now that I feel nothing, it has stopped, has perhaps gone down again into its darkness, from which who can say whether it will ever rise?  Ten times over I must essay the task, must lean down over the abyss. And each time the cowardice that deters us from every difficult task, every important enterprise, has urged me to leave the thing alone, to drink my tea and to think merely of the worries of to-day and my hopes for to-morrow, which can be brooded over painlessly.
+____
+
+[verse]
+____
+But when from a long-distant past nothing subsists, after the people are dead, after the things are broken and scattered, taste and smell alone, more fragile but more enduring, more unsubstantial, more persistent, more faithful, remain poised a long time, like souls, remembering, waiting, hoping, amid the ruins of all the rest; and bear unflinchingly, in the tiny and almost impalpable drop of their essence, the vast structure of recollection.
+____
+
+[verse]
+____
+It is the same in life; the heart changes, and that is our worst misfortune; but we learn of it only from reading or by imagination; for in reality its alteration, like that of certain natural phenomena, is so gradual that, even if we are able to distinguish, successively, each of its different states, we are still spared the actual sensation of change.
+____
+
+[verse]
+____
+It is the same in life; the heart changes, and that is our worst misfortune; but we learn of it only from reading or by imagination; for in reality its alteration, like that of certain natural phenomena, is so gradual that, even if we are able to distinguish, successively, each of its different states, we are still spared the actual sensation of change.
+____
+
+[verse]
+____
+So manifold are our interests in life that it is not uncommon that, on a single occasion, the foundations of a happiness which does not yet exist are laid down simultaneously with aggravations of a grief from which we are still suffering. And, no doubt, that might have occurred to Swann elsewhere than at Mme. de Saint-Euverte’s. Who, indeed, can say whether, in the event of his having gone, that evening, somewhere else, other happinesses, other griefs would not have come to him, which, later, would have appeared to have been inevitable? But what did seem to him to have been inevitable was what had indeed taken place, and he was not far short of seeing something providential in the fact that he had at last decided to go to Mme. de Saint-Euverte’s that evening, because his mind, anxious to admire the richness of invention that life shews, and incapable of facing a difficult problem for any length of time, such as to discover what, actually, had been most to be wished for, came to the conclusion that the sufferings through which he had passed that evening, and the pleasures, at that time unsuspected, which were already being brought to birth, — the exact balance between which was too difficult to establish — were linked by a sort of concatenation of necessity.
+____
+
+[verse]
+____
+The places that we have known belong now only to the little world of space on which we map them for our own convenience. None of them was ever more than a thin slice, held between the contiguous impressions that composed our life at that time; remembrance of a particular form is but regret for a particular moment; and houses, roads, avenues are as fugitive, alas, as the years.
+____
+
+
+===== From Within a Budding Groove by Marcel Proust
+[verse]
+____
+In theory one is aware that the earth revolves, but in practice one does not perceive it, the ground upon which one treads seems not to move, and one can live undisturbed. So it is with Time in one’s life. And to make its flight perceptible novelists are obliged, by wildly accelerating the beat of the pendulum, to transport the reader in a couple of minutes over ten, or twenty, or even thirty years. At the top of one page we have left a lover full of hope; at the foot of the next we meet him again, a bowed old man of eighty, painfully dragging himself on his daily walk about the courtyard of an almshouse, scarcely replying to what is said to him, oblivious of the past.
+____
+
+[verse]
+____
+I was young still, none the less, since I had been able to write her one, by means of which I hoped, in telling her of my solitary dreams of love and longing, to arouse similar dreams in her. The sadness of men who have grown old lies in their no longer even thinking of writing such letters, the futility of which their experience has shewn.
+____
+
+[verse]
+____
+In theory one is aware that the earth revolves, but in practice one does not perceive it, the ground upon which one treads seems not to move, and one can live undisturbed. So it is with Time in one’s life. And to make its flight perceptible novelists are obliged, by wildly accelerating the beat of the pendulum, to transport the reader in a couple of minutes over ten, or twenty, or even thirty years. At the top of one page we have left a lover full of hope; at the foot of the next we meet him again, a bowed old man of eighty, painfully dragging himself on his daily walk about the courtyard of an almshouse, scarcely replying to what is said to him, oblivious of the past.
+____
+
+[verse]
+____
+And as Habit weakens every impression, what a person recalls to us most vividly is precisely what we had forgotten, because it was of no importance, and had therefore left in full possession of its strength. That is why the better part of our memory exists outside ourselves, in a blatter of rain, in the smell of an unaired room or of the first crackling brushwood fire in a cold grate: wherever, in short, we happen upon what our mind, having no use for it, had rejected, the last treasure that the past has in store, the richest, that which when all our flow of tears seems to have dried at the source can make us weep again.
+____
+
+[verse]
+____
+I looked at the three trees; I could see them plainly, but my mind felt that they were concealing something which it had not grasped, as when things are placed out of our reach, so that our fingers, stretched out at arm’s-length, can only touch for a moment their outer surface, and can take hold of nothing. Then we rest for a little while before thrusting out our arm with refreshed vigour, and trying to reach an inch or two farther. But if my mind was thus to collect itself, to gather strength, I should have to be alone.
+____
+
+[verse]
+____
+Love is born; one would like to remain, for her whom one loves, the unknown whom she may love in turn, but one has need of her, one requires contact not so much with her body as with her attention, her heart. One slips into a letter some spiteful expression which will force the indifferent reader to ask for some little kindness in compensation, and love, following an unvarying procedure, sets going with an alternating movement the machinery in which one can no longer either refrain from loving or be loved.
+____
+
+
+===== From My Struggle, Book 1 by Karl Ove Knausgaard
+[verse]
+____
+I was eight years old that evening, my father thirty-two. Even though I still can’t say that I understand him or know what kind of person he was, the fact that I am now seven years older than he was then makes it easier for me to grasp some things. For example, how great the difference was between our days. While my days were jam-packed with meaning, when each step opened a new opportunity, and when every opportunity filled me to the brim, in a way which now is actually incomprehensible, the meaning of his days was not concentrated in individual events but spread over such large areas that it was not possible to comprehend them in anything other than abstract terms. “Family” was one such term, “career” another. Few or no unforeseen opportunities at all can have presented themselves in the course of his days, he must always have known in broad outline what they would bring and how he would react.
+____
+
+[verse]
+____
+Understanding the world requires you to take a certain distance from it. Things that are too small to see with the naked eye, such as molecules and atoms, we magnify. Things that are too large, such as cloud formations, river deltas, constellations, we reduce. At length we bring it within the scope of our senses and we stabilize it with fixer. When it has been fixed we call it knowledge. Throughout our childhood and teenage years, we strive to attain the correct distance to objects and phenomena. We read, we learn, we experience, we make adjustments. Then one day we reach the point where all the necessary distances have been set, all the necessary systems have been put in place. That is when time begins to pick up speed. It no longer meets any obstacles, everything is set, time races through our lives, the days pass by in a flash and before we know what is happening we are forty, fifty, sixty … Meaning requires content, content requires time, time requires resistance. Knowledge is distance, knowledge is stasis and the enemy of meaning. My picture of my father on that evening in 1976 is, in other words, twofold: on the one hand I see him as I saw him at that time, through the eyes of an eight-year-old: unpredictable and frightening; on the other hand, I see him as a peer through whose life time is blowing and unremittingly sweeping large chunks of meaning along with it.
+____
+
+[verse]
+____
+I have always had a great need for solitude. I require huge swathes of loneliness and when I do not have it, which has been the case for the last five years, my frustration can sometimes become almost panicked, or aggressive. And when what has kept me going for the whole of my adult life, the ambition to write something exceptional one day, is threatened in this way my one thought, which gnaws at me like a rat, is that I have to escape. Time is slipping away from me, running through my fingers like sand while I … do what? Clean floors, wash clothes, make dinner, wash up, go shopping, play with the children in the play areas, bring them home, undress them, bathe them, look after them until it is bedtime, tuck them in, hang some clothes to dry, fold others, and put them away, tidy up, wipe tables, chairs, and cupboards. It is a struggle, and even though it is not heroic, I am up against a superior force, for no matter how much housework I do at home the rooms are littered with mess and junk, and the children, who are taken care of every waking minute, are more stubborn than I have ever known children to be, at times it is nothing less than bedlam here, perhaps we have never managed to find the necessary balance between distance and intimacy, which of course becomes increasingly important the more personality is involved. And there is quite a bit of that here.
+____
+
+[verse]
+____
+The corrosive part of course is the awareness that being nice to them is not of the slightest help when I am in the thick of it, dragged down into a quagmire of tears and frustration. And once in the quagmire each further action serves only to plunge me deeper. And at least as corrosive is the awareness that I am dealing with children. That it is children who are dragging me down. There is something deeply shameful about this. In such situations I am probably as far from the person I aspire to be as possible. I didn’t have the faintest notion about any of this before I had children. I thought then that everything would be fine so long as I was kind to them. And that is actually more or less how it is, but nothing I had previously experienced warned me about the invasion into your life that having children entails. The immense intimacy you have with them, the way in which your own temperament and mood are, so to speak, woven into theirs, such that your own worst sides are no longer something you can keep to yourself, hidden, but seem to take shape outside you, and are then hurled back. The same of course applies to your best sides. For, apart from the most hectic periods, when first Heidi, then John, were born, and the emotional life of those who experienced them was dislocated in ways that can only be described as tantamount to a crisis, their life here is basically stable and secure, and even though I do occasionally lose my temper with them, they are still at ease with me and come to me whenever they feel the need.
+
+Where does all the mess in our lives come from? I know I can change all this, I know we too can become that kind of family, but then I would have to want it and in which case life would have to revolve around nothing else. And that is not what I want. I do everything I have to do for the family; that is my duty. The only thing I have learned from life is to endure it, never to question it, and to burn up the longing generated by this in writing. Where this ideal has come from I have no idea, and as I now see it before me, in black and white, it almost seems perverse: why duty before happiness? The question of happiness is banal, but the question that follows is not, the question of meaning. When I look at a beautiful painting I have tears in my eyes, but not when I look at my children. That does not mean I do not love them, because I do, with all my heart, it simply means that the meaning they produce is not sufficient to fulfill a whole life. Not mine, at any rate. Soon I will be forty, and when I’m forty, it won’t be long before I’m fifty. And when I’m fifty, it won’t be long before I’m sixty. And when I’m sixty, it won’t be long before I’m seventy. And that will be that. My epitaph might read: Here lies a man who grinned and bore it. And in the end he perished for it.
+____
+
+
+===== From My Struggle, Book 2 by Karl Ove Knausgaard
+[verse]
+____
+Everyday life, with its duties and routines, was something I endured, not a thing I enjoyed, nor something that was meaningful or that made me happy. This had nothing to do with a lack of desire to wash floors or change diapers but rather with something more fundamental: the life around me was not meaningful. I always longed to be away from it. So the life I led was not my own. I tried to make it mine, this was my struggle, because of course I wanted it, but I failed, the longing for something else undermined all my efforts.
+____
+
+[verse]
+____
+The priest who buried him mentioned this in his sermon, he said that you have to ground your gaze, ground yourself in the world, by which he meant that my father had not done this, and he was absolutely right. But it was several years before I understood that there were also many good reasons for loosening your grip, not grounding yourself at all, just letting yourself fall and fall until you were ultimately smashed to pieces at the bottom.
+____
+
+[verse]
+____
+My feelings soared and before I knew what was happening my eyes were moist. It was only then that I realized how little I normally felt, how numb I had become. When I was eighteen I was full of such feelings all the time, the world seemed more intense and that was why I wanted to write, it was the sole reason, I wanted to touch something that music touched. The human voice’s lament and sorrow, joy and delight, I wanted to evoke everything the world had bestowed upon us.
+____
+
+[verse]
+____
+His face was utterly open; it was as though there was nothing between him and the world. He had no protection against it, he was wholly defenseless, and to see that hurt you deep into your soul.
+____
+
+[verse]
+____
+I ran my eye along the row. When I bought films it was always with the idea that they should broaden my horizons. They should have their own special imagery I could assimilate, or forge a relationship with places whose potential I hadn’t considered or be set in an unfamiliar time or culture. In short, I chose films for all the wrong reasons, because when evening came and we wanted to see one of them we could never be bothered to watch two hours of some Japanese event from the 1960s in black-and-white, or the great, open expanses of Rome’s suburbs where the only thing that happened was that some stunningly beautiful people met who were fundamentally alienated from the world, as tended to be the case with films of that era. No, when evening came and we sat down to watch a film we wanted to be entertained. And it had to be with as little effort and inconvenience as possible. It was the same with everything. I hardly read books anymore; if there was a newspaper around I would prefer to read that. And the threshold just kept rising. It was idiotic because this life gave you nothing, it only made time pass. If we saw a good film it stirred us and set things in motion, for that is how it is, the world is always the same, it is the way we view it that changes. Everyday life, which could bear down on us like a foot treading on a head, could also transport us with delight. Everything depended on the seeing eye. If the eye saw the water that was everywhere in Tarkovsky’s films, for example – which changed the world into a kind of terrarium, where everything trickled and ran, floated and drifted, where all the characters could melt away from the picture and only coffee cups on a table were left, filling slowly with the falling rain, against a background of intense, almost menacing green vegetation – yes, then the eye would also be able to see the same wild, existential depths unfold in everyday life. For we were flesh and blood, sinew and bone, around us plants and trees grew, insects buzzed, birds flew, clouds drifted, rain fell. The eye that gave meaning to the world was a constant possibility, but we almost always decided against it, at least it was like that in our lives.
+____
+
+[verse]
+____
+The only genres I saw value in, which still conferred meaning, were diaries and essays, the types of literature that did not deal with narrative, that were not about anything, but just consisted of a voice, the voice of your own personality, a life, a face, a gaze you could meet. What is a work of art if not the gaze of another person? Not directed above us, nor beneath us, but at the same height as our own gaze. Art cannot be experienced collectively, nothing can, art is something you are alone with. You meet its gaze alone.
+____
+
+[verse]
+____
+If I keeled over now, and had a few seconds, perhaps minutes, to think before it was all over I would think the opposite. That I hadn’t accomplished anything, I hadn’t seen anything, I hadn’t experienced anything. I want to live. But why don’t I live then? Why, when I’m on board a plane or in a car imagining it’s going to crash, why do I think that’s not so bad? That it doesn’t matter? That I might just as well die as live? For this is what I think more often than not. Indifference is one of the seven deadly sins, actually the greatest of them all, because it is the only one that sins against life.
+____
+
+
+===== From My Struggle, Book 3 Karl Ove Knausgaard
+[verse]
+____
+The one with the well-groomed black beard and the thick black hair? The one with the sensitive lips and the amused eyes? Yes, of course, that was my father, my very own dad. But who he was to himself at this moment, or at any other, nobody knows. And so it is with all these photos, even the ones of me. They are voids; the only meaning that can be derived from them is that which time has added. Nonetheless, these photos are a part of me and my most intimate history, as others’ photos are part of theirs. Meaningful, meaningless, meaningful, meaningless, this is the wave that washes through our lives and creates its inherent tension. I draw on everything I remember from the first six years of my life, and all that exists in terms of photos and objects from that period, they constitute an important part of my identity, filling the otherwise empty and memoryless periphery of this “me” with meaning and continuity. From all these bits and pieces I have built myself a Karl Ove, an Yngve, a mom and dad, a house in Hove and a house in Tybakken, a grandmother and grandfather on my dad’s side, and a grandmother and grandfather on my mom’s side, a neighborhood and a multitude of kids. This ghetto-like state of incompleteness is what I call my childhood. 
+*   *   * 
+Memory is not a reliable quantity in life. And it isn’t for the simple reason that memory doesn’t prioritize the truth. It is never the demand for truth that determines whether memory recalls an action accurately or not. It is self-interest that does. Memory is pragmatic, it is sly and artful, but not in any hostile or malicious way; on the contrary, it does everything it can to keep its host satisfied. Something pushes a memory into the great void of oblivion, something distorts it beyond recognition, something misunderstands it totally, something, and this something is as good as nothing, recalls it with sharpness, clarity, and accuracy. That which is remembered accurately is never given to you to determine.
+____
+
+[verse]
+____
+And then there are the memories associated with a landscape, for landscape in childhood is not like the landscape that follows later; they are charged in very different ways. In that landscape every rock, every tree had a meaning, and because everything was seen for the first time and because it was seen so many times, it was anchored in the depths of your consciousness, not as something vague or approximate, the way the landscape outside a house appears to adults if they close their eyes and it has to be summoned forth, but as something with immense precision and detail.
+____
+
+[verse]
+____
+Time never goes as fast as in your childhood; an hour is never as short as it was then. Everything is open, you run here, you run there, do one thing, then another, and suddenly the sun has gone down and you find yourself standing in the twilight with time like a barrier that has suddenly gone down in front of you: Oh no, is it already nine o’clock? But time never goes as slowly as in your childhood either, an hour is never as long as it was then. If the openness is gone, if the opportunities to run here, there, and everywhere are gone, whether in your mind or in physical reality, every minute is like a barrier, time is a room in which you are trapped. Is there anything worse for a child than to sit in a car for a whole hour, on a journey he knows inside out, on the way to something he’s looking forward to? In a car full of cigarette smoke from two parents and with a father who hisses with irritation every time you shift position and happen to nudge his seat with your knee?
+____
+
+[verse]
+____
+She was always there, I know she was, but I just can’t remember it. 
+I have no memories of her reading to me and I can’t remember her putting a single bandage on my knees or being present at a single end-of-term event. 
+How can that be? She saved me because if she hadn’t been there I would have grown up alone with Dad, and sooner or later I would have taken my life, one way or another. But she was there, Dad’s darkness had a counterbalance, I am alive and the fact that I do not live my life to the full has nothing to do with the balance of my childhood. I am alive, I have my own children, and with them I have tried to achieve only one aim: that they shouldn’t be afraid of their father. 
+They aren’t. I know that. 
+When I enter a room, they don’t cringe, they don’t look down at the floor, they don’t dart off as soon as they glimpse an opportunity, no, if they look at me, it is not a look of indifference, and if there is anyone I am happy to be ignored by it’s them. If there is anyone I am happy to be taken for granted by, it’s them. And should they have completely forgotten I was there when they turn forty themselves, I will thank them and take a bow and accept the bouquets. 
+*   *   * 
+Dad knew what the situation was. Lack of self-knowledge was not one of his failings. One evening at the beginning of the eighties, he said to Prestbakmo that it was Mom who had saved his children. The question is whether it was enough. The question is whether she was responsible for exposing us to him for so many years, a man we were afraid of, always, at all times. The question is whether it is enough to be a counterbalance to the darkness.
+____
+
+===== From My Struggle, Book 6 Karl Ove Knausgaard
+
+[verse]
+____
+When we were expecting Vanja, I had been worried my gloominess might rub off on her, I had even mentioned it to Yngve once, who had said that children are basically happy, it was their point of departure, and so it had turned out, always they strove toward gladness, and as long as no complications arose, they were forever happy and buoyant. Even when that wasn’t the case and for some reason they were feeling sad, despairing, or upset, they never removed themselves from who they were, but accepted everything completely. One day they would look back and ask the same questions as me, why had things been the way they were then, why are they like this now, what exactly is the meaning of my life? Oh, my children, my beloved children, may you never think such thoughts! May you always understand that you are sufficient to yourselves!
+____
+
+[verse]
+____
+I had been so despairing. It was as if I had been shut away inside myself, alone with my frustration, a dark and monstrous demon, which at some point had grown enormous, as if there was no way out. Ever-decreasing circles. Greater and greater darkness. Not the existential kind of darkness that was all about life and death, overarching happiness or overarching grief, but the smaller kind, the shadow on the soul, the ordinary man’s private little hell, so inconsequential as to barely deserve mention, while at the same time engulfing everything.
+____
+
+[verse]
+____
+The organization he was a part of building up in Munich in the 1920s, with its storm troopers, uniforms and weapons, was an extension of the military, and the politics he put forward, with its starkly defined enemy and all its muscular aggression, was an extension of the war by other means. That his appeal should be so vast that he could draw many hundreds of thousands, indeed millions of people along with him seems unfathomable to us today; we read the arguments and the perils are plain to us, the idiocy, the sheer contempt for fellow human beings, yet it was not by arguments he won over the people, but by that very abyss that ran through his soul, or by what it generated within him, for what he thereby expressed, his inner chaos and his yearning for that chaos to stop, were curiously congruent with society’s inner chaos and its yearning for that chaos to stop. His chaotic soul strove toward the boundaries by which it was constrained, his hometown morality and the order provided by the military, which is to say the petty bourgeois and the Prussian or Wilhelmian, both belonging to the past, which in the hardships of the Weimar years was where the majority, Hitler among them, turned. What made Hitler so different, however, was the flame he ignited in all who listened to him speak, his enormous ability to establish community, in which the entire register of his inner being, his reservoir of pent-up emotions and suppressed desire, could find an outlet and pervade his words with such intensity and conviction that people wanted to be there, in the hatred on the one side, the hope and utopia on the other, the gleaming, almost divine future that was theirs for the taking if only they would follow him and obey his words.
+____
+
+
+
+===== From Letters to a Young Poet, by Rainer Maria Rilke
+[verse]
+____
+Nobody can counsel and help you, nobody. There is only one single way. Go into yourself. Search for the reason that bids you write; find out whether it is spreading out its roots in the deepest places of your heart, acknowledge to yourself whether you would have to die if it were denied you to write. This above all—ask yourself in the stillest hour of your night: must I write? Delve into yourself for a deep answer. And if this should be affirmative, if you may meet this earnest question with a strong and simple “I must,” then build your life according to this necessity; your life even into its most indifferent and slightest hour must be a sign of this urge and a testimony to it. Then draw near to Nature.
+____
+
+[verse]
+____
+Nobody can counsel and help you, nobody. There is only one single way. Go into yourself. Search for the reason that bids you write; find out whether it is spreading out its roots in the deepest places of your heart, acknowledge to yourself whether you would have to die if it were denied you to write. This above all—ask yourself in the stillest hour of your night: must I write? Delve into yourself for a deep answer. And if this should be affirmative, if you may meet this earnest question with a strong and simple “I must,” then build your life according to this necessity; your life even into its most indifferent and slightest hour must be a sign of this urge and a testimony to it. Then draw near to Nature.
+____
+
+[verse]
+____
+Nobody can counsel and help you, nobody. There is only one single way. Go into yourself. Search for the reason that bids you write; find out whether it is spreading out its roots in the deepest places of your heart, acknowledge to yourself whether you would have to die if it were denied you to write. This above all—ask yourself in the stillest hour of your night: must I write? Delve into yourself for a deep answer. And if this should be affirmative, if you may meet this earnest question with a strong and simple “I must,” then build your life according to this necessity; your life even into its most indifferent and slightest hour must be a sign of this urge and a testimony to it. Then draw near to Nature.
+____
+
+[verse]
+____
+And this is why it is so important to be lonely and attentive when one is sad: because the apparently uneventful and stark moment at which our future sets foot in us is so much closer to life than that other noisy and fortuitous point of time at which it happens to us as if from outside.
+____
+
+[verse]
+____
+It is necessary—and toward this our development will move gradually—that nothing strange should befall us, but only that which has long belonged to us. We have already had to rethink so many of our concepts of motion, we will also gradually learn to realize that that which we call destiny goes forth from within people, not from without into them.
+____
+
+[verse]
+____
+As people were long mistaken about the motion of the sun, so they are even yet mistaken about the motion of that which is to come. The future stands firm, dear Mr. Kappus, but we move in infinite space.
+____
+
+[verse]
+____
+We have no reason to mistrust our world, for it is not against us. Has it terrors, they are our terrors; has it abysses, those abysses belong to us; are dangers at hand, we must try to love them.
+____
+
+[verse]
+____
+So you must not be frightened, dear Mr. Kappus, if a sadness rises up before you larger than any you have ever seen; if a restiveness, like light and cloud-shadows, passes over your hands and over all you do. You must think that something is happening with you, that life has not forgotten you, that it holds you in its hand; it will not let you fall. Why do you want to shut out of your life any agitation, any pain, any melancholy, since you really do not know what these states are working upon you? Why do you want to persecute yourself with the question whence all this may be coming and whither it is bound?
+____
+
+
+===== From House of Names, by Colin Toibin
+[verse]
+____
+I am praying to no gods. I am alone among those here because I do not pray and will not pray again. Instead, I will speak in ordinary whispers. I will speak in words that come from the world, and those words will be filled with regret for what has been lost. I will make sounds like prayers, but prayers that have no source and no destination, not even a human one, since my daughter is dead and cannot hear. 
+I know as no one else knows that the gods are distant, they have other concerns. They care about human desires and antics in the same way that I care about the leaves of a tree. I know the leaves are there, they wither and grow again and wither, as people come and live and then are replaced by others like them. There is nothing I can do to help them or prevent their withering. I do not deal with their desires.
+____
+
+[verse]
+____
+When he was alive, he and the men around him believed that the gods followed their fates and cared about them. Each of them. But I will say now that they did not, they do not. Our appeal to the gods is the same as the appeal a star makes in the sky above us before it falls, it is a sound we cannot hear, a sound to which, even if we did hear it, we would be fully indifferent.
+____
+
+[verse]
+____
+I went out and looked at the sky. And all I had then to help me was the leftover language of prayer. What had once been powerful and added meaning to everything was now desolate, strange, with its own sad, brittle power, with its memory, locked in its rhythms, of a vivid past when our words rose up and found completion. Now our words are trapped in time, they are filled with limits, they are mere distractions; they are as fleeting and monotonous as breath. They keep us alive, and maybe that is something, at least for the moment, for which we should be grateful. There is nothing else.
+____
+
+[verse]
+____
+When I approached, he turned and looked at me and I realized something from his gaze, the directness of it, and the tone of his voice as he spoke his name, the honesty in it. This will be the end of our troubles, I thought. Achilles has been sent to us to end what began before I was born, before my husband was born. Some venom in our blood, in all our blood. Old crimes and desires for vengeance. Old murders and memories of murder. Old wars and old treacheries. Old savagery, old attacks, times when men behaved like wolves. It will end now as this man marries my daughter, I thought. I saw the future as a place of plenty. I saw Orestes growing up in the light of this young soldier married to his sister. I saw an end to strife, a time when men would grow old with ease, and battles would become the subject of high talk as night fell and memories faded of the hacked-up bodies and the howling voices rising for miles across some bloodied plain. They could talk of heroes then instead.
+____
+
+[verse]
+____
+I smiled because I knew that this would be the last episode of happiness I would know in my life, and that it was being played out by my husband, in all his weakness, for as long as possible. It was all theatre, all show, the mock sword fight between father and son. I saw how Agamemnon was making it last, keeping Orestes excited without exhausting him, letting him feel that he was showing off his skill and thus making the boy want to do more and more. He was controlling Orestes as we both stood watching. 
+It struck me for a second that this was what the gods did with us—they distracted us with mock conflicts, with the shout of life, they distracted us also with images of harmony, beauty, love, as they watched distantly, dispassionately, waiting for the moment when it ended, when exhaustion set in. They stood back as we stood back. And when it ended, they shrugged. They no longer cared.
+____
+
+[verse]
+____
+They made their way outside and stood on the steps, taking in the dawn light, fuller now, more complete, as it always would be once the day began, no matter who came and went, or who was born, or what was forgotten or remembered. In time, what had happened would haunt no one and belong to no one, once they themselves had passed on into the darkness and into the abiding shadows.
+____
+
+
+
+===== From the Federalist Papers by Alexander Hamilton, James Madison, John Jay
+[verse]
+____
+No. 1
+It has been frequently remarked that it seems to have been reserved to the people of this country, by their conduct and example, to decide the important question, whether societies of men are really capable or not of establishing good government from reflection and choice, or whether they are forever destined to depend for their political constitutions on accident and force.
+____
+
+[verse]
+____
+No. 1
+An enlightened zeal for the energy and efficiency of government will be stigmatized as the offspring of a temper fond of despotic power and hostile to the principles of liberty. An over-scrupulous jealousy of danger to the rights of the people, which is more commonly the fault of the head than of the heart, will be represented as mere pretense and artifice, the stale bait for popularity at the expense of public good. It will be forgotten, on the one hand, that jealousy is the usual concomitant of violent love, and that the noble enthusiasm of liberty is too apt to be infected with a spirit of narrow and illiberal distrust. On the other hand, it will be equally forgotten that the vigor of government is essential to the security of liberty; that, in the contemplation of a sound and well-informed judgment, their interests can never be separated; and that a dangerous ambition more often lurks behind the specious mask of zeal for the rights of the people than under the forbidding appearance of zeal for the firmness and efficiency of government. History will teach us that the former has been found a much more certain road to the introduction of despotism than the latter, and that of those men who have overturned the liberties of republics, the greatest number have begun their career by paying an obsequious court to the people, commencing demagogues and ending tyrants.
+____
+
+[verse]
+____
+No. 2
+Nothing is more certain than the indispensable necessity of government; and it is equally undeniable that whenever and however it is instituted, the people must cede to it some of their natural rights, in order to vest it with requisite powers.
+____
+
+[verse]
+____
+No. 3
+The number of wars which have happened or will happen in the world will always be found to be in proportion to the number and weight of the causes, whether real or pretended, which provoke or invite them. If this remark be just, it becomes useful to inquire whether so many just causes of war are likely to be given by united America as by disunited America; for if it should turn out that united America will probably give the fewest, then it will follow that in this respect the Union tends most to preserve the people in a state of peace with other nations.
+____
+
+
+
+==== Aphorisms
+
+===== W.H. Auden
+[verse]
+____
+To be free is often to be lonely
+____
+
+
+===== Albert Camus
+[verse]
+____
+You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life. 
+____
+
+
+===== Franz Kafka
+[verse]
+____
+I think we ought to read only the kind of books that wound or stab us. If the book we're reading doesn't wake us up with a blow to the head, what are we reading for? So that it will make us happy, as you write? Good Lord, we would be happy precisely if we had no books, and the kind of books that make us happy are the kind we could write ourselves if we had to. But we need books that affect us like a disaster, that grieve us deeply, like the death of someone we loved more than ourselves, like being banished into forests far from everyone, like a suicide. A book must be the axe for the frozen sea within us. That is my belief.
+____
+[verse]
+____
+There is an infinite amount of hope in the universe ... but not for us.
+____
+
+
+===== Ernest Hemingway
+[verse]
+____
+The world breaks everyone and afterward many are strong at the broken places. But those that will not break it kills. It kills the very good and the very gentle and the very brave impartially. If you are none of these you can be sure it will kill you too but there will be no special hurry.
+____
+
+
+===== Herman Melville
+[verse]
+____
+Toil is man’s allotment; toil of brain, or toil of hands, or a grief that’s more than either, the grief and sin of idleness.
+____
+
+
+===== William Carlos Williams
+[verse]
+____
+It is difficult to get the news from poems yet men die miserably every day for lack of what is found there.
+____
+
+
+===== Charlie Chaplin
+[verse]
+____
+Life is a tragedy when seen in close-up, but a comedy in long shot.
+____
+
+
+
