@@ -10,7 +10,7 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-- script: gem install asciidoctor-pdf
+- script: sudo gem install asciidoctor-pdf
   displayName: 'Install asciidoctor-pdf'
 
 - script: |
