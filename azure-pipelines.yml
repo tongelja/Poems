@@ -19,5 +19,5 @@ steps:
 - script: asciidoctor-pdf poems.adoc
   displayName: 'Create pdf'
 
-- script: mailx -a poems.pdf -s "Poems" jtongelidis@kindle.com
+- script: echo "poems" | mailx -a poems.pdf -s "Poems" jtongelidis@kindle.com
   displayName: 'Mail pdf'
