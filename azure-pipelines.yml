@@ -13,7 +13,8 @@ steps:
 - script: sudo gem install asciidoctor-pdf
   displayName: 'Install asciidoctor-pdf'
 
-- script: |
-    echo Add other tasks to build, test, and deploy your project.
-    echo See https://aka.ms/yaml
-  displayName: 'Run a multi-line script'
+- script: asciidoctor-pdf poems.adoc
+  displayName: 'Create pdf'
+
+- script: mailx -a poems.pdf -s "Poems" jtongelidis@kindle.com
+  displayName: 'Mail pdf'
