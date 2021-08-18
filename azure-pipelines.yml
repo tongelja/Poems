@@ -19,5 +19,8 @@ steps:
 - script: asciidoctor-pdf poems.adoc
   displayName: 'Create pdf'
 
-- script: echo "poems" | mailx -a poems.pdf -s "Poems" jtongelidis@kindle.com
+- script: mv poems.pdf poems-$( date '+%Y%m%d' ).pdf
+  displayName: 'Update pdf'
+
+- script: echo "poems" | mailx -a poems-$( date '+%Y%m%d' ).pdf -s "Poems" jtongelidis@kindle.com
   displayName: 'Mail pdf'
