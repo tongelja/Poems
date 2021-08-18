@@ -24,3 +24,6 @@ steps:
 
 - script: echo "poems" | mailx -a poems-$( date '+%Y%m%d' ).pdf -s "Poems" jtongelidis@kindle.com
   displayName: 'Mail pdf'
+
+- script: echo "poems" | mailx -a poems-$( date '+%Y%m%d' ).pdf -s "Poems" jtongelidis@gmail.com
+  displayName: 'Mail pdf'
