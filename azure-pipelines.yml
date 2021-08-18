@@ -13,6 +13,9 @@ steps:
 - script: sudo gem install asciidoctor-pdf
   displayName: 'Install asciidoctor-pdf'
 
+- script: sudo apt install mailutils
+  displayName: 'Install mailx'
+
 - script: asciidoctor-pdf poems.adoc
   displayName: 'Create pdf'
 
