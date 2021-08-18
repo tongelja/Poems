@@ -3008,8 +3008,9 @@ ____
 
 
 ===== Mild Dry Lines: An Exchange, By Christian Wiman
+[verse]
 ____
-           —You prick too liberal into alien pains,
+You prick too liberal into alien pains,
 and read too readily a grief  you need to see
 in order for the world to be the world
 that ratifies the choices you’ve made.
@@ -3017,7 +3018,7 @@ You talk of callings, but a calling should
 enlarge the life that it refines,
 not grind its spice into some same mustard.
 
-           —If  we could see the grief of any one life
+If  we could see the grief of any one life
 it would be slag enough to crust a world
 and any feeling being buried within.
 But grief’s a craft like any other, it seems,
@@ -3029,20 +3030,20 @@ our very mirrors, friend, these aging faces
 with their lines of  loneliness like pressured ice:
 you would have them silenced?
 
-                                             —I would have them whole.
+I would have them whole.
 
-           —As would I. As would anyone
+As would I. As would anyone
 whose life is lit, however dimly, by the light
 of survival.
 
-           —I fear that by survival what you mean
+I fear that by survival what you mean
 is resignation, or, worse, a fictioned oblivion,
 like the bull elephant that has outgrown
 the stake that it was tied to as a calf:
 it can’t break the rope that it could break
 with ease.
 
-           —And I fear by wholeness what you mean
+And I fear by wholeness what you mean
 is merely the will to leaven fate with will,
 that constipated sorrow called good cheer.
 I won’t relapse from these mild dry lines
@@ -3050,8 +3051,9 @@ whose only consolation is their dryness,
 that one might utter calmly utter blood.
 ____
 
-=====Daedal By A.E. Stallings
-----
+===== Daedal By A.E. Stallings
+[verse]
+____
 To build a labyrinth it takes
 A twisted mind, a puzzled art,
 A fractal branching of mistakes.
@@ -3076,11 +3078,12 @@ The shaken Etch A Sketch awakes
 A lost child buried in its heart.
 To build a labyrinth it takes
 Some good intentions, some mistakes.
-----
+____
 
 
-=====Dissociation By Ricki Cummings
-----
+===== Dissociation By Ricki Cummings
+[verse]
+____
 I sit with another version
 of myself eating this apple
 and this apple. I see
@@ -3111,24 +3114,27 @@ Curious when I sit and write
 when I’ve had no pen in hand in weeks.
 And every time I try to ask me
 I’m gone before I get there.
-----
+____
 
 
 ===== Fuck / Time By Inua Ellams
-----
+[verse]
+____
 Once upon a time / Yo-Yo Ma / traveling through Botswana searching for music / crosses a local shaman singing / into the savannah / He rushes to notate the melody / Please Sing Again he requests / to which the shaman sings something else and explains / to the baffled Yo-Yo Ma that earlier / clouds had covered the sun and wild antelope grazed in the distance / But the dial of the world had twirled since / The antelopes had cantered into some other future / The clouds had gone / so the song had to change / had to slough off the chains us mortals clasp everything with / even our fluid wrists / The universe in fact is monstrously indifferent to the presence of man / We are small as moth wing fall / in an orchestra broad as galaxies / playing a symphony Time isn’t bothered to fathom / It respects no constant and is always moving on
-----
+____
 
 
 ===== Unrest By Emily Fragos
-----
+[verse]
+____
 At the shelter, the cats are kept in glass-enclosed cases with just enough room to stand, walk a few steps, and eat; but strangers come on weekends to adopt them, take them to larger rooms and give them new names: James, Tabitha, Snowball, Molière, so you would never know how they began their lives, in abuse, grave hunger, and deprivation, or what strange turbulence lies coiled up inside their bodies, as they flo
-----
+____
 
 
 
 ===== The Sea Shell By Marin Sorescu
-----
+[verse]
+____
 I have hidden inside a sea shell
 but forgotten in which.
 
@@ -3150,11 +3156,12 @@ How often I’ve gone straight up
 to one of them, saying: That’s me.
 Only, when I prised it open
 it was empty.
-----
+____
 
 
 ===== To the Swimmer By Countee Cullen
-----
+[verse]
+____
 Now as I watch you, strong of arm and endurance, battling and struggling
 With the waves that rush against you, ever with invincible strength returning
 Into my heart, grown each day more tranquil and peaceful, comes a fierce longing
@@ -3167,11 +3174,12 @@ Over the treasures beneath.
 My heart goes out to you of dauntless courage and spirit indomitable,
 And though my lips would speak, my spirit forbids me to ask,
 “Is your heart as true as your arm?”
-----
+____
 
 
 ===== Making a Fist By Naomi Shihab Nye
-----
+[verse]
+____
     We forget that we are all dead men conversing with dead men.
                                                                   —Jorge Luis Borges
 
@@ -3194,11 +3202,12 @@ stamped with our unanswerable woes.
 I who did not die, who am still living,
 still lying in the backseat behind all my questions,
 clenching and opening one small hand.
-----
+____
 
 
 ===== Leave-Taking By Louise Bogan
-----
+[verse]
+____
 I do not know where either of us can turn
 Just at first, waking from the sleep of each other.
 I do not know how we can bear
@@ -3218,11 +3227,12 @@ Whether we turn to the dark or to the kiss of another;
 Let us know this for leavetaking,
 That I may not be heavy upon you,
 That you may blind me no more.
-----
+____
 
 
 ===== Sad Steps By Philip Larkin
-----
+[verse]
+____
 Groping back to bed after a piss
 I part thick curtains, and am startled by   
 The rapid clouds, the moon’s cleanliness.
@@ -3246,12 +3256,13 @@ Far-reaching singleness of that wide stare
 Is a reminder of the strength and pain   
 Of being young; that it can’t come again,   
 But is for others undiminished somewhere.
-----
+____
 
 
 
 ===== On Leaving the Bachelorette Brunch By Rachel Wetzsteon
-----
+[verse]
+____
 Because I gazed out the window at birds
 doing backflips when the subject turned
 to diamonds, because my eyes glazed over
@@ -3276,12 +3287,13 @@ the world has told you to tend and treasure
 above all others. You love, and that’s good;
 you are loved, that’s superb; you will vanish
 and reap some happy rewards. But look at the birds.
-----
+____
 
 
 
 ===== To converse with the greats By Vera Pavlova Translated By Steven Seymour
-----
+[verse]
+____
 To converse with the greats
 by trying their blindfolds on;
 to correspond with books
@@ -3290,12 +3302,13 @@ to edit holy edicts,
 and at the midnight hour
 to talk with the clock by tapping a wall
 in the solitary confinement of the universe.
-----
+____
 
 
 
 ===== Such Simple Love By Thomas Mcgrath
-----
+[verse]
+____
 All night long I hear the sleepers toss
 Between the darkened window and the wall.
 The madman’s whimper and the lover’s voice,
@@ -3313,12 +3326,13 @@ These fancies had some sentimental charm,
 But love without direction is a cheap blanket
 And even if it did no one any harm,
 No one is warm.
-----
+____
 
 
 ===== The Lotos-eaters by Alfred, Lord Tennyson
-----
-"Courage!" he said, and pointed toward the land,
+[verse]
+____
+"Courage!" he said, and pointed toward the land, 
 "This mounting wave will roll us shoreward soon."
 In the afternoon they came unto a land
 In which it seemed always afternoon.
@@ -3512,421 +3526,22 @@ Resting weary limbs at last on beds of asphodel.
 Surely, surely, slumber is more sweet than toil, the shore
 Than labour in the deep mid-ocean, wind and wave and oar;
 O, rest ye, brother mariners, we will not wander more.
-----
-
-
-
-==== Quotations
-
-
-===== From Little Gidding by T.S. Elliot
-[verse]
-____
-We shall not cease from exploration
-And the end of all our exploring
-Will be to arrive where we started
-And know the place for the first time.
 ____
 
-
-===== From Citizenship in a Republic by Theodore Roosevelt
-[verse]
-____
-It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.
-____
-
-
-===== From Walden by Henry David Thoreau
-[verse]
-____
-The mass of men lead lives of quiet desperation. What is called resignation is confirmed desperation. From the desperate city you go into the desperate country, and have to console yourself with the bravery of minks and muskrats. A stereotyped but unconscious despair is concealed even under what are called the games and amusements of mankind. There is no play in them, for this comes after work. But it is a characteristic of wisdom not to do desperate things.”
-____
-
-
-===== From Self-Reliance by Ralph Waldo Emerson
-[verse]
-____
-A man should learn to detect and watch that gleam of light which flashes across his mind from within, more than the lustre of the firmament of bards and sages.
-____
-
-[verse]
-____
-There is a time in every man’s education when he arrives at the conviction that envy is ignorance; that imitation is suicide; that he must take himself for better, for worse, as his portion; that though the wide universe is full of good, no kernel of nourishing corn can come to him but through his toil bestowed on that plot of ground which is given to him to till.
-____
-
-[verse]
-____
-And deep-asleep he seem'd, yet all awake,
-And music in his ears his beating heart did make.
-
-They sat them down upon the yellow sand,
-Between the sun and moon upon the shore;
-And sweet it was to dream of Fatherland,
-Of child, and wife, and slave; but evermore
-Most weary seem'd the sea, weary the oar,
-Weary the wandering fields of barren foam.
-Then some one said, "We will return no more";
-And all at once they sang, "Our island home
-Is far beyond the wave; we will no longer roam."
-
-CHORIC SONG
-I
-There is sweet music here that softer falls
-Than petals from blown roses on the grass,
-Or night-dews on still waters between walls
-Of shadowy granite, in a gleaming pass;
-Music that gentlier on the spirit lies,
-Than tir'd eyelids upon tir'd eyes;
-Music that brings sweet sleep down from the blissful skies.
-Here are cool mosses deep,
-And thro' the moss the ivies creep,
-And in the stream the long-leaved flowers weep,
-And from the craggy ledge the poppy hangs in sleep."
-
-II
-Why are we weigh'd upon with heaviness,
-And utterly consumed with sharp distress,
-While all things else have rest from weariness?
-All things have rest: why should we toil alone,
-We only toil, who are the first of things,
-And make perpetual moan,
-Still from one sorrow to another thrown:
-Nor ever fold our wings,
-And cease from wanderings,
-Nor steep our brows in slumber's holy balm;
-Nor harken what the inner spirit sings,
-"There is no joy but calm!"
-Why should we only toil, the roof and crown of things?
-
-III
-Lo! in the middle of the wood,
-The folded leaf is woo'd from out the bud
-With winds upon the branch, and there
-Grows green and broad, and takes no care,
-Sun-steep'd at noon, and in the moon
-Nightly dew-fed; and turning yellow
-Falls, and floats adown the air.
-Lo! sweeten'd with the summer light,
-The full-juiced apple, waxing over-mellow,
-Drops in a silent autumn night.
-All its allotted length of days
-The flower ripens in its place,
-Ripens and fades, and falls, and hath no toil,
-Fast-rooted in the fruitful soil.
-
-IV
-Hateful is the dark-blue sky,
-Vaulted o'er the dark-blue sea.
-Death is the end of life; ah, why
-Should life all labour be?
-Let us alone. Time driveth onward fast,
-And in a little while our lips are dumb.
-Let us alone. What is it that will last?
-All things are taken from us, and become
-Portions and parcels of the dreadful past.
-Let us alone. What pleasure can we have
-To war with evil? Is there any peace
-In ever climbing up the climbing wave?
-All things have rest, and ripen toward the grave
-In silence; ripen, fall and cease:
-Give us long rest or death, dark death, or dreamful ease.
-
-V
-How sweet it were, hearing the downward stream,
-With half-shut eyes ever to seem
-Falling asleep in a half-dream!
-To dream and dream, like yonder amber light,
-Which will not leave the myrrh-bush on the height;
-To hear each other's whisper'd speech;
-Eating the Lotos day by day,
-To watch the crisping ripples on the beach,
-And tender curving lines of creamy spray;
-To lend our hearts and spirits wholly
-To the influence of mild-minded melancholy;
-To muse and brood and live again in memory,
-With those old faces of our infancy
-Heap'd over with a mound of grass,
-Two handfuls of white dust, shut in an urn of brass!
-
-VI
-Dear is the memory of our wedded lives,
-And dear the last embraces of our wives
-And their warm tears: but all hath suffer'd change:
-For surely now our household hearths are cold,
-Our sons inherit us: our looks are strange:
-And we should come like ghosts to trouble joy.
-Or else the island princes over-bold
-Have eat our substance, and the minstrel sings
-Before them of the ten years' war in Troy,
-And our great deeds, as half-forgotten things.
-Is there confusion in the little isle?
-Let what is broken so remain.
-The Gods are hard to reconcile:
-'Tis hard to settle order once again.
-There is confusion worse than death,
-Trouble on trouble, pain on pain,
-Long labour unto aged breath,
-Sore task to hearts worn out by many wars
-And eyes grown dim with gazing on the pilot-stars.
-
-VII
-But, propt on beds of amaranth and moly,
-How sweet (while warm airs lull us, blowing lowly)
-With half-dropt eyelid still,
-Beneath a heaven dark and holy,
-To watch the long bright river drawing slowly
-His waters from the purple hill—
-To hear the dewy echoes calling
-From cave to cave thro' the thick-twined vine—
-To watch the emerald-colour'd water falling
-Thro' many a wov'n acanthus-wreath divine!
-Only to hear and see the far-off sparkling brine,
-Only to hear were sweet, stretch'd out beneath the pine.
-
-VIII
-The Lotos blooms below the barren peak:
-The Lotos blows by every winding creek:
-All day the wind breathes low with mellower tone:
-Thro' every hollow cave and alley lone
-Round and round the spicy downs the yellow Lotos-dust is blown.
-We have had enough of action, and of motion we,
-Roll'd to starboard, roll'd to larboard, when the surge was seething free,
-Where the wallowing monster spouted his foam-fountains in the sea.
-Let us swear an oath, and keep it with an equal mind,
-In the hollow Lotos-land to live and lie reclined
-On the hills like Gods together, careless of mankind.
-For they lie beside their nectar, and the bolts are hurl'd
-Far below them in the valleys, and the clouds are lightly curl'd
-Round their golden houses, girdled with the gleaming world:
-Where they smile in secret, looking over wasted lands,
-Blight and famine, plague and earthquake, roaring deeps and fiery sands,
-Clanging fights, and flaming towns, and sinking ships, and praying hands.
-But they smile, they find a music centred in a doleful song
-Steaming up, a lamentation and an ancient tale of wrong,
-Like a tale of little meaning tho' the words are strong;
-Chanted from an ill-used race of men that cleave the soil,
-Sow the seed, and reap the harvest with enduring toil,
-Storing yearly little dues of wheat, and wine and oil;
-Till they perish and they suffer—some, 'tis whisper'd—down in hell
-Suffer endless anguish, others in Elysian valleys dwell,
-Resting weary limbs at last on beds of asphodel.
-Surely, surely, slumber is more sweet than toil, the shore
-Than labour in the deep mid-ocean, wind and wave and oar;
-O, rest ye, brother mariners, we will not wander more.
-----
-
-
-
-==== Quotations
-
-
-===== From Little Gidding by T.S. Elliot
-[verse]
-____
-We shall not cease from exploration
-And the end of all our exploring
-Will be to arrive where we started
-And know the place for the first time.
-____
-
-
-===== From Citizenship in a Republic by Theodore Roosevelt
-[verse]
-____
-It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.
-____
-
-
-===== From Walden by Henry David Thoreau
-[verse]
-____
-The mass of men lead lives of quiet desperation. What is called resignation is confirmed desperation. From the desperate city you go into the desperate country, and have to console yourself with the bravery of minks and muskrats. A stereotyped but unconscious despair is concealed even under what are called the games and amusements of mankind. There is no play in them, for this comes after work. But it is a characteristic of wisdom not to do desperate things.”
-____
-
-
-===== From Self-Reliance by Ralph Waldo Emerson
-[verse]
-____
-A man should learn to detect and watch that gleam of light which flashes across his mind from within, more than the lustre of the firmament of bards and sages.
-____
-
-[verse]
-____
-There is a time in every man’s education when he arrives at the conviction that envy is ignorance; that imitation is suicide; that he must take himself for better, for worse, as his portion; that though the wide universe is full of good, no kernel of nourishing corn can come to him but through his toil bestowed on that plot of ground which is given to him to till.
-____
-
-[verse]
-____
-And deep-asleep he seem'd, yet all awake,
-And music in his ears his beating heart did make.
-
-They sat them down upon the yellow sand,
-Between the sun and moon upon the shore;
-And sweet it was to dream of Fatherland,
-Of child, and wife, and slave; but evermore
-Most weary seem'd the sea, weary the oar,
-Weary the wandering fields of barren foam.
-Then some one said, "We will return no more";
-And all at once they sang, "Our island home
-Is far beyond the wave; we will no longer roam."
-
-CHORIC SONG
-I
-There is sweet music here that softer falls
-Than petals from blown roses on the grass,
-Or night-dews on still waters between walls
-Of shadowy granite, in a gleaming pass;
-Music that gentlier on the spirit lies,
-Than tir'd eyelids upon tir'd eyes;
-Music that brings sweet sleep down from the blissful skies.
-Here are cool mosses deep,
-And thro' the moss the ivies creep,
-And in the stream the long-leaved flowers weep,
-And from the craggy ledge the poppy hangs in sleep."
-
-II
-Why are we weigh'd upon with heaviness,
-And utterly consumed with sharp distress,
-While all things else have rest from weariness?
-All things have rest: why should we toil alone,
-We only toil, who are the first of things,
-And make perpetual moan,
-Still from one sorrow to another thrown:
-Nor ever fold our wings,
-And cease from wanderings,
-Nor steep our brows in slumber's holy balm;
-Nor harken what the inner spirit sings,
-"There is no joy but calm!"
-Why should we only toil, the roof and crown of things?
-
-III
-Lo! in the middle of the wood,
-The folded leaf is woo'd from out the bud
-With winds upon the branch, and there
-Grows green and broad, and takes no care,
-Sun-steep'd at noon, and in the moon
-Nightly dew-fed; and turning yellow
-Falls, and floats adown the air.
-Lo! sweeten'd with the summer light,
-The full-juiced apple, waxing over-mellow,
-Drops in a silent autumn night.
-All its allotted length of days
-The flower ripens in its place,
-Ripens and fades, and falls, and hath no toil,
-Fast-rooted in the fruitful soil.
-
-IV
-Hateful is the dark-blue sky,
-Vaulted o'er the dark-blue sea.
-Death is the end of life; ah, why
-Should life all labour be?
-Let us alone. Time driveth onward fast,
-And in a little while our lips are dumb.
-Let us alone. What is it that will last?
-All things are taken from us, and become
-Portions and parcels of the dreadful past.
-Let us alone. What pleasure can we have
-To war with evil? Is there any peace
-In ever climbing up the climbing wave?
-All things have rest, and ripen toward the grave
-In silence; ripen, fall and cease:
-Give us long rest or death, dark death, or dreamful ease.
-
-V
-How sweet it were, hearing the downward stream,
-With half-shut eyes ever to seem
-Falling asleep in a half-dream!
-To dream and dream, like yonder amber light,
-Which will not leave the myrrh-bush on the height;
-To hear each other's whisper'd speech;
-Eating the Lotos day by day,
-To watch the crisping ripples on the beach,
-And tender curving lines of creamy spray;
-To lend our hearts and spirits wholly
-To the influence of mild-minded melancholy;
-To muse and brood and live again in memory,
-With those old faces of our infancy
-Heap'd over with a mound of grass,
-Two handfuls of white dust, shut in an urn of brass!
-
-VI
-Dear is the memory of our wedded lives,
-And dear the last embraces of our wives
-And their warm tears: but all hath suffer'd change:
-For surely now our household hearths are cold,
-Our sons inherit us: our looks are strange:
-And we should come like ghosts to trouble joy.
-Or else the island princes over-bold
-Have eat our substance, and the minstrel sings
-Before them of the ten years' war in Troy,
-And our great deeds, as half-forgotten things.
-Is there confusion in the little isle?
-Let what is broken so remain.
-The Gods are hard to reconcile:
-'Tis hard to settle order once again.
-There is confusion worse than death,
-Trouble on trouble, pain on pain,
-Long labour unto aged breath,
-Sore task to hearts worn out by many wars
-And eyes grown dim with gazing on the pilot-stars.
-
-VII
-But, propt on beds of amaranth and moly,
-How sweet (while warm airs lull us, blowing lowly)
-With half-dropt eyelid still,
-Beneath a heaven dark and holy,
-To watch the long bright river drawing slowly
-His waters from the purple hill—
-To hear the dewy echoes calling
-From cave to cave thro' the thick-twined vine—
-To watch the emerald-colour'd water falling
-Thro' many a wov'n acanthus-wreath divine!
-Only to hear and see the far-off sparkling brine,
-Only to hear were sweet, stretch'd out beneath the pine.
-
-VIII
-The Lotos blooms below the barren peak:
-The Lotos blows by every winding creek:
-All day the wind breathes low with mellower tone:
-Thro' every hollow cave and alley lone
-Round and round the spicy downs the yellow Lotos-dust is blown.
-We have had enough of action, and of motion we,
-Roll'd to starboard, roll'd to larboard, when the surge was seething free,
-Where the wallowing monster spouted his foam-fountains in the sea.
-Let us swear an oath, and keep it with an equal mind,
-In the hollow Lotos-land to live and lie reclined
-On the hills like Gods together, careless of mankind.
-For they lie beside their nectar, and the bolts are hurl'd
-Far below them in the valleys, and the clouds are lightly curl'd
-Round their golden houses, girdled with the gleaming world:
-Where they smile in secret, looking over wasted lands,
-Blight and famine, plague and earthquake, roaring deeps and fiery sands,
-Clanging fights, and flaming towns, and sinking ships, and praying hands.
-But they smile, they find a music centred in a doleful song
-Steaming up, a lamentation and an ancient tale of wrong,
-Like a tale of little meaning tho' the words are strong;
-Chanted from an ill-used race of men that cleave the soil,
-Sow the seed, and reap the harvest with enduring toil,
-Storing yearly little dues of wheat, and wine and oil;
-Till they perish and they suffer—some, 'tis whisper'd—down in hell
-Suffer endless anguish, others in Elysian valleys dwell,
-Resting weary limbs at last on beds of asphodel.
-Surely, surely, slumber is more sweet than toil, the shore
-Than labour in the deep mid-ocean, wind and wave and oar;
-O, rest ye, brother mariners, we will not wander more.
-----
 
 ===== Figs from Thistles: First Fig by Edna St. Vincent Millay
-----
+[verse]
+____
 My candle burns at both ends;
    It will not last the night;
 But ah, my foes, and oh, my friends—
    It gives a lovely light!
-----
+____
 
 
 ===== sorrow song by Lucille Clifton
-----
+[verse]
+____
 for the eyes of the children,
 the last to melt,
 the last to vaporize,
@@ -3946,12 +3561,11 @@ their eyes,
 staring at us, amazed to see
 the extraordinary evil in
 ordinary men.
-----
+____
 
-
-
-====== The Vacation by Wendell Berry
-----
+===== The Vacation by Wendell Berry
+[verse]
+____
 Once there was a man who filmed his vacation.
 He went flying down the river in his boat
 with his video camera to his eye, making
@@ -3967,7 +3581,81 @@ so that after he had had it he would still
 have it. It would be there. With a flick
 of a switch, there it would be. But he
 would not be in it. He would never be in it.
-----
+____
+
+
+===== Dear Life By Maya C. Popa
+[verse]
+____
+I can’t undo all I have done unto myself,
+what I have let an appetite for love do to me.
+
+I have wanted all the world, its beauties
+and its injuries; some days,
+I think that is punishment enough.
+
+Often, I received more than I’d asked,
+
+which is how this works—you fish in open water
+ready to be wounded on what you reel in.
+
+Throwing it back was a nightmare.
+Throwing it back and seeing my own face
+
+as it disappeared into the dark water.
+
+Catching my tongue suddenly on metal,
+spitting the hook into my open palm.
+
+Dear life: I feel that hook today most keenly.
+
+Would you loosen the line—you’ll listen
+
+if   I ask you,
+
+if   you are the sort of  life I think you are.
+____
+
+
+===== Omnicide By Maurya Simon
+[verse]
+____
+And when our children ask,
+       Why did  you do nothing as the world
+             was dying?   what will we tell them?
+
+Will we say, We didn’t know how
+       sick it was, or admit that We gathered
+             our rosebuds while we could,
+
+Old  Time was still a-flying—?
+       It’s now the end of  everything,
+             our children will say, go crawl
+
+into your arks and sail off  destitute into
+       your doom, and leave us only
+             your shadows. And our children
+
+will light candles across seven continents
+       empty now of  lions, kangaroos, ravens,
+             squirrels, javelinas, pelicans—
+
+devoid of praying mantises, koalas, ants,
+       cobras, snails, Doberman pinschers, pigs,
+             vultures, lizards, and alley cats.
+
+Our children will hide in caves with blind
+       cockroaches, together feeding on the algae
+             glowing in neon greens and blues
+
+across dolomite and limestone walls.
+       They’ll leave no pictographs behind,
+             no sprayed handprints, no artful gods.
+
+Such silence now, they’ll say, this  you’ve
+       bequeathed us, this human indifference.
+             And we’ll beg them, Survive.
+____
 
 
 ==== Quotations
@@ -4211,6 +3899,7 @@ Dare not to think you have got to the bottom of your hearts; you do not know wha
 ____
 
 
+[verse]
 ____
 It is difficult to get the news from poems yet men die miserably every day for lack of what is found there.
 ____
