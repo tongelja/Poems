@@ -10,10 +10,20 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-- script: echo Hello, world!
-  displayName: 'Run a one-line script'
+- script: sudo gem install asciidoctor-pdf
+  displayName: 'Install asciidoctor-pdf'
 
-- script: |
-    echo Add other tasks to build, test, and deploy your project.
-    echo See https://aka.ms/yaml
-  displayName: 'Run a multi-line script'
+- script: sudo apt install mailutils
+  displayName: 'Install mailx'
+
+- script: asciidoctor-pdf poems.adoc
+  displayName: 'Create pdf'
+
+- script: mv poems.pdf poems-$( date '+%Y%m%d' ).pdf
+  displayName: 'Update pdf'
+
+- script: echo "poems" | mailx -a poems-$( date '+%Y%m%d' ).pdf -s "Poems" jtongelidis@kindle.com
+  displayName: 'Mail pdf'
+
+- script: echo "poems" | mailx -a poems-$( date '+%Y%m%d' ).pdf -s "Poems" jtongelidis@gmail.com
+  displayName: 'Mail pdf'
