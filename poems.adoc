@@ -4480,6 +4480,118 @@ and changed, back to the class.
 ----
 
 
+
+=====Moss-Gathering By Theodore Roethke
+[verse]
+----
+To loosen with all ten fingers held wide and limber
+And lift up a patch, dark-green, the kind for lining cemetery baskets,
+Thick and cushiony, like an old-fashioned doormat, 
+The crumbling small hollow sticks on the underside mixed with roots, 
+And wintergreen berries and leaves still stuck to the top, —
+That was moss-gathering. 
+But something always went out of me when I dug loose those carpets 
+Of green, or plunged to my elbows in the spongy yellowish moss of the marshes:
+And afterwards I always felt mean, jogging back over the logging road, 
+As if I had broken the natural order of things in that swampland;
+Disturbed some rhythm, old and of vast importance,
+By pulling off flesh from the living planet;
+As if I had committed, against the whole scheme of life, a desecration. 
+----
+
+
+
+
+===== Praise Song for the Day By Elizabeth Alexander
+[verse]
+----
+A Poem for Barack Obama’s Presidential Inauguration
+
+Each day we go about our business,
+walking past each other, catching each other’s
+eyes or not, about to speak or speaking.
+
+All about us is noise. All about us is
+noise and bramble, thorn and din, each
+one of our ancestors on our tongues.
+
+Someone is stitching up a hem, darning
+a hole in a uniform, patching a tire,
+repairing the things in need of repair.
+
+Someone is trying to make music somewhere,
+with a pair of wooden spoons on an oil drum,
+with cello, boom box, harmonica, voice.
+
+A woman and her son wait for the bus.
+A farmer considers the changing sky.
+A teacher says, Take out your pencils. Begin.
+
+We encounter each other in words, words
+spiny or smooth, whispered or declaimed,
+words to consider, reconsider.
+
+We cross dirt roads and highways that mark
+the will of some one and then others, who said
+I need to see what’s on the other side.
+
+I know there’s something better down the road.
+We need to find a place where we are safe.
+We walk into that which we cannot yet see.
+
+Say it plain: that many have died for this day.
+Sing the names of the dead who brought us here,
+who laid the train tracks, raised the bridges,
+
+picked the cotton and the lettuce, built
+brick by brick the glittering edifices
+they would then keep clean and work inside of.
+
+Praise song for struggle, praise song for the day.
+Praise song for every hand-lettered sign,
+the figuring-it-out at kitchen tables.
+
+Some live by love thy neighbor as thyself,
+others by first do no harm or take no more
+than you need. What if the mightiest word is love?
+
+Love beyond marital, filial, national,
+love that casts a widening pool of light,
+love with no need to pre-empt grievance.
+
+In today’s sharp sparkle, this winter air,
+any thing can be made, any sentence begun.
+On the brink, on the brim, on the cusp,
+
+praise song for walking forward in that light.
+----
+
+
+
+===== In November By Lisel Mueller
+[verse]
+----
+Outside the house the wind is howling
+and the trees are creaking horribly.
+This is an old story
+with its old beginning,
+as I lay me down to sleep.
+But when I wake up, sunlight
+has taken over the room.
+You have already made the coffee
+and the radio brings us music
+from a confident age. In the paper
+bad news is set in distant places.
+Whatever was bound to happen
+in my story did not happen.
+But I know there are rules that cannot be broken.
+Perhaps a name was changed.
+A small mistake. Perhaps
+a woman I do not know
+is facing the day with the heavy heart
+that, by all rights, should have been mine.
+----
+
 ==== Quotations
 
 
@@ -4782,4 +4894,10 @@ Happiness is an imaginary condition, formerly attributed by the living to the de
 [verse]
 ----
 For in every ill turn of fortune the most unhappy sort of unfortunate man is the one who has been happy
+----
+
+===== Aleksandr Solzhenitsyn, The Gulag Archipelago 1918–1956
+[verse]
+----
+If only it were all so simple! If only there were evil people somewhere insidiously committing evil deeds, and it were necessary only to separate them from the rest of us and destroy them. But the line dividing good and evil cuts through the heart of every human being. And who is willing to destroy a piece of his own heart?
 ----
