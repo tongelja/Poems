@@ -4849,7 +4849,7 @@ ____
 ===== Nikos Kazantzakis, 1946
 [verse]
 ----
-How simple a frugal a thing is happiness: a glass of wine, a roast chestnut, a wretched little brazier, the sounf of the sea.
+How simple a frugal a thing is happiness: a glass of wine, a roast chestnut, a wretched little brazier, the sound of the sea.
 ----
 
 ===== John Perry Barlow, 1977
@@ -4887,7 +4887,7 @@ Principles Of Adult Behavior
 ===== Thomas Szasz, 1973
 [verse]
 ----
-Happiness is an imaginary condition, formerly attributed by the living to the dead, now usually attributed by adults to children, and by children to adults.
+Happiness is an imaginary condition, formerly attributed by the living to the dead, now usually attributed by adults to children, and by children to adults. Except for the time when Christopher got punched in the stomach.
 ----
 
 ===== Boethius, c. 520
@@ -4901,3 +4901,39 @@ For in every ill turn of fortune the most unhappy sort of unfortunate man is the
 ----
 If only it were all so simple! If only there were evil people somewhere insidiously committing evil deeds, and it were necessary only to separate them from the rest of us and destroy them. But the line dividing good and evil cuts through the heart of every human being. And who is willing to destroy a piece of his own heart?
 ----
+
+===== Jean Anouilh, 1934
+[verse]
+----
+There will always be a lost dog somewhere that will prevent me from being happy/
+----
+
+===== Ralph Waldo Emerson, 1844
+[verse]
+----
+Just to fill the hour -- that is happiness.
+----
+
+===== Clarice Lispector, from "State of Grace"
+[verse]
+----
+It is better if the state of grace is short lived. Should it last too long, as I well know, familiar as I am with my almost childish ambitions.  I should end up trying to penetrate the enigmas of nature.  And that would be enough to banish all grace.  For grace is a gift that makes no demands, but it would disappear if we were to start demanding answers.  We must never forget that the state of grace is only a tiny aperture which allows us to glimpse a sort of tranquil paradise, but it is not an entrance, nor does it give us the right to eat the fruits of the orchards.
+
+One emerges from a state of grace with slear skin and open, thoughtful eyes.  And even without a trace of happiness, it is as if one's whole body were bathed ina gentle smile.  And one comes away a better person that when one entered.  To have known grace is to have experienced something that appeasrs to redeem the human condition is revealed in all its wretched poverty, therevy teaching us to love more, to forgive more, and show greater faith.  One begins to have a certain confidence in suffering and its ways, which can so often become unbearable.  
+
+Some days are so arid and empty that I would give years of my life in exchange for a few inutes of grace.
+----
+
+===== Laozi, c 550 BC
+[verse]
+----
+There is no greater disaster than not to know contentment.
+----
+
+===== John Dryden, 1665
+[verse]
+----
+For all the happiness mankind can gain
+Is not in pleasure, but in reset from pain.
+----
+
