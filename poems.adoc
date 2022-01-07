@@ -3863,7 +3863,7 @@ ____
 
 ===== what can a poem do? by Darius V. Daughtry
 [verse]
-----
+____
 a poem cannot save a life
 cannot Luke Cage your skin
 fend off a dark alley attack
@@ -3946,12 +3946,12 @@ to scribble a poem or two
 
 I wonder where we’d be if the masses knew
 just what a poem could do.
-----
+____
 
 
 ===== Miss you. Would like to take a walk with you. by Gabrielle Calvocoressi
 [verse]
-----
+____
 Do not care if  you just arrive in your skeleton.
 Would love to take a walk with you. Miss you.
 Would love to make you shrimp saganaki.
@@ -3979,12 +3979,12 @@ come back so we could talk about truth.
 Miss you. Wish you would walk through my
 door. Stare out from the mirror. Come through
 the pipes.
-----
+____
 
 
 ===== Photograph from September 11 by Wisława Szymborska
 [verse]
-----
+____
 They jumped from the burning floors—
 one, two, a few more,
 higher, lower.
@@ -4009,12 +4009,12 @@ that have just now opened.
 I can do only two things for them—
 describe this flight
 and not add a last line.
-----
+____
 
 
 ===== Ashes of Life by Edna St. Vincent Millay
 [verse]
-----
+____
 Love has gone and left me and the days are all alike;
 Eat I must, and sleep I will,  and would that night were here!
 But ah!  lie awake and hear the slow hours strike!
@@ -4029,12 +4029,12 @@ Love has gone and left me,  and the neighbors knock and borrow,
 And life goes on forever like the gnawing of a mouse, 
 And to-morrow and to-morrow and to-morrow and to-morrow
 There's this little street and this little house.
-----
+____
 
 
 ===== Leaves by Ursula K. Le Guin
 [verse]
-----
+____
 Years do odd things to identity.
 What does it mean to say
 I am that child in the photograph
@@ -4047,11 +4047,11 @@ Might as well say I am the words she read
 or the words I wrote in other years,
 flicker of shade and sunlight
 as the wind moves through the leaves.
-----
+____
 
 Forgetfulness by Billy Collins
 [verse]
-----
+____
 The name of the author is the first to go
 followed obediently by the title, the plot,
 the heartbreaking conclusion, the entire novel
@@ -4082,12 +4082,12 @@ No wonder you rise in the middle of the night
 to look up the date of a famous battle in a book on war.
 No wonder the moon in the window seems to have drifted   
 out of a love poem that you used to know by heart.
-----
+____
 
 
 ===== Breaking [News] by Noor Hindi
 [verse]
-----
+____
 We'll wake up, Sunday morning, and read the paper. Read each other. Become
 consumers
 of each other's stories, a desperate reaching
@@ -4103,12 +4103,12 @@ an oversaturation of feelings we'll fail at transforming into action.
 What’s lost is incalculable.
           And at the end of summer, the swimming pools will be gutted of water.
           And it'll be impossible to swim.
-----
+____
 
 
 ===== From “Couplets” by Maggie Millner
 [verse]
-----
+____
 I tried to stay away. Could not. I’d turn to  J
     or T and say: Today’s the day
 
@@ -4141,12 +4141,12 @@ one, my show would air the pleasures
 
 or  Nothing’s Wrong, You’re  Just in Love Again,
     or True  Life: Turning  Twenty-Eight  in  Brooklyn.
-----
+____
 
 
 ===== The Leaves by Austin Smith
 [verse]
-----
+____
 The leaves lived behind the dining room doors.
 They only came out when company came out.
 Dad would lift one end of the table, my brothers
@@ -4166,12 +4166,12 @@ I thought how it would be better for a few of us
 To sit at too long a table that had three leaves in it
 And have to raise our voices
 Than to sit whispering around the leafless one.
-----
+____
 
 
 ===== Happiness by Jane Kenyon
 [verse]
-----
+____
 There’s just no accounting for happiness,
 or the way it turns up like a prodigal
 who comes back to the dust at your feet
@@ -4206,12 +4206,12 @@ in the night.
 in the perpetual shade of pine barrens,
 to rain falling on the open sea,
 to the wineglass, weary of holding wine.
-----
+____
 
 
 ===== Wild nights - Wild nights! (269) by Emily Dickinson
 [verse]
-----
+____
 Wild nights - Wild nights!
 Were I with thee
 Wild nights should be
@@ -4226,13 +4226,13 @@ Rowing in Eden -
 Ah - the Sea!
 Might I but moor - tonight -
 In thee!
-----
+____
 
 
 
 ===== Nothing Is Far by Robert Francis
 [verse]
-----
+____
 Though I have never caught the word
 Of God from any calling bird,
 I hear all that the ancients heard.
@@ -4252,13 +4252,13 @@ Nothing was God that is not here.
 Here is the bird, the tree, the stone.
 Here in the sun I sit alone
 Between the known and the unknown.
-----
+____
 
 
 
 ===== Sonnet 73: That time of year thou mayst in me behold by William Shakespeare
 [verse]
-----
+____
 That time of year thou mayst in me behold
 When yellow leaves, or none, or few, do hang
 Upon those boughs which shake against the cold,
@@ -4273,12 +4273,12 @@ As the death-bed whereon it must expire,
 Consum'd with that which it was nourish'd by.
 This thou perceiv'st, which makes thy love more strong,
 To love that well which thou must leave ere long.
-----
+____
 
 
 ===== If For Each Of Us by James Ragan
 [verse]
-----
+____
 a rope could swing us
 long and light across a widening trough
 of all that fails us in our lives,
@@ -4306,11 +4306,11 @@ to learn to love again what first I dreamed,
 free as wonder, soft as touch,
 and of all things simple
 to care again for them as much.
-----
+____
 
 ===== My Therapist Wants to Know about My Relationship to Work by Tiana Clark
 [verse]
-----
+____
 I hustle
 upstream.
 I grasp.
@@ -4360,13 +4360,13 @@ for his wife, now for me, inside my own womb.
 Again, I child back. I float. I sing. I simple
 & humble. Eyes close. I low my voice,
 was it a psalm? Don’t know. But I stopped.
-----
+____
 
 
 
 The Infirmament by Dean Young
 [verse]
-----
+____
 An end is always punishment for a beginning.
 If you’re Catholic, sadness is punishment
 for happiness, you become the bug you squash
@@ -4398,12 +4398,12 @@ the deep trenches in the sea where all the time
 the inner stuff of this earth surges up
 which is how the continents are made
 and broken.
-----
+____
 
 
 ===== Golden Hour by Kimberly Casey
 [verse]
-----
+____
 When you caught one to keep,
 we took it home and I asked you to teach me.
 You showed me how to spike the brain—
@@ -4443,13 +4443,13 @@ with a taste of blood.
 You said we are all violent.
 It’s about finding the way out
 that does the least damage.
-----
+____
 
 
 
 ===== Trouble with Math in a One-Room Country School by Jane Kenyon
 [verse]
-----
+____
 The others bent their heads and started in.
 Confused, I asked my neighbor
 to explain—a sturdy, bright-cheeked girl
@@ -4477,13 +4477,13 @@ and hardened my heart against authority.
 And then I heard her steps, her fingers
 on the latch. She led me, blinking
 and changed, back to the class.
-----
+____
 
 
 
 =====Moss-Gathering by Theodore Roethke
 [verse]
-----
+____
 To loosen with all ten fingers held wide and limber
 And lift up a patch, dark-green, the kind for lining cemetery baskets,
 Thick and cushiony, like an old-fashioned doormat, 
@@ -4497,14 +4497,14 @@ As if I had broken the natural order of things in that swampland;
 Disturbed some rhythm, old and of vast importance,
 By pulling off flesh from the living planet;
 As if I had committed, against the whole scheme of life, a desecration. 
-----
+____
 
 
 
 
 ===== Praise Song for the Day by Elizabeth Alexander
 [verse]
-----
+____
 A Poem for Barack Obama’s Presidential Inauguration
 
 Each day we go about our business,
@@ -4564,13 +4564,13 @@ any thing can be made, any sentence begun.
 On the brink, on the brim, on the cusp,
 
 praise song for walking forward in that light.
-----
+____
 
 
 
 ===== In November by Lisel Mueller
 [verse]
-----
+____
 Outside the house the wind is howling
 and the trees are creaking horribly.
 This is an old story
@@ -4590,12 +4590,12 @@ A small mistake. Perhaps
 a woman I do not know
 is facing the day with the heavy heart
 that, by all rights, should have been mine.
-----
+____
 
 
 ===== Invisible Children by Mariana Llanos
 [verse]
-----
+____
 Invisible children fall
 through the cracks of the system
 like Alice in the rabbit hole.
@@ -4617,12 +4617,12 @@ of a murky puddle on the city street
 which won’t tell them they’re beautiful
 but it’ll show their scars, as invisible to others
 as these children are.
-----
+____
 
 
 ===== The Line of Fire by Mariana Llanos
 [verse]
-----
+____
 our children in the line of fire
 scrambling for their lives
 while we dreamily polish our guns
@@ -4636,11 +4636,11 @@ learning to shiver and cry in silence
 instead of multiplication facts
 we pat our sweet babies’ heads
 and send them off to the line of fire
-----
+____
 
 ===== The Only Me by Pat Mora
 [verse]
-----
+____
 Spinning through space for eons,
 our earth—oceans, rivers, mountains,
 glaciers, tigers, parrots, redwoods—
@@ -4659,11 +4659,11 @@ Our earth: so much beauty, hate,
 
         Can I be the only me,
                       become all my unique complexity?
-----
+____
 
 ===== Summer by Chen Chen
 [verse]
-----
+____
 You are the ice cream sandwich connoisseur of your generation.
 Blessed are your floral shorteralls, your deeply pink fanny pack with  travel-size lint roller just in case.
 Level of splendiferous in your outfit: 200.
@@ -4679,12 +4679,12 @@ One day you will create an online personality quiz that also freshens the breath
 The next day you will tell your father, You were wrong to say that I had to change.
 To make me promise I would. To make me promise.
 & promise.
-----
+____
 
 
 ===== Who Will Tell Them? by Michael Simms
 [verse]
-----
+____
 It turns out you can kill the earth,
 Crack it open like an egg.
 It turns out you can murder the sea,
@@ -4715,12 +4715,12 @@ Right now, there are children playing on the shore.
 There are children lying in hospital beds.
 There are children trusting us.
 Who will tell them what we’ve done?
-----
+____
 
 
 ===== White Apples by Donald Hall
 [verse]
-----
+____
 when my father had been dead a week
 I woke
 with his voice in my ear
@@ -4732,13 +4732,13 @@ white apples and the taste of stone
 
 if he called again
 I would put on my coat and galoshes
-----
+____
 
 
 
 ===== Alone by Jack Gilbert
 [verse]
-----
+____
 I never thought Michiko would come back
 after she died. But if she did, I knew
 it would be as a lady in a long white dress.
@@ -4758,13 +4758,13 @@ the mystery. She likes it best when
 I touch her head and tell her small
 things about my days and our friends.
 That makes her happy the way it always did.
-----
+____
 
 
 
 ===== Good Bones by Maggie Smith
 [verse]
-----
+____
 Life is short, though I keep this from my children.
 Life is short, and I’ve shortened mine
 in a thousand delicious, ill-advised ways,
@@ -4782,12 +4782,12 @@ to sell them the world. Any decent realtor,
 walking you through a real shithole, chirps on
 about good bones: This place could be beautiful,
 right? You could make this place beautiful.
-----
+____
 
 
 ===== Plastic: A Personal History by Elizabeth Bradfield
 [verse]
-----
+____
 How can I find a way to praise
 it? Do the early inventors & embracers
 churn with regret? I don’t think my parents
@@ -4843,12 +4843,12 @@ Is it as beautiful? Would you wear it?
 Would you buy it for your daughter
 so she in turn could pass it down and
 pass it down and pass it down?
-----
+____
 
 
 ===== About Suffering by Elisa Gabbert
 [verse]
-----
+____
 Part of suffering is the useless urge to announce that you’re suffering.
  
 There is no other way to say it: I’m suffering. Just to say “I suffer”
@@ -4891,13 +4891,13 @@ Suffering is happiness, after forty minutes of desolate shuffling. The
 point is, life is suffering.
  
 About suffering, no one is ever wrong.
-----
+____
 
 
 
 ===== Freedom by Langston Hughes
 [verse]
-----
+____
 Freedom will not come
 Today, this year
             Nor ever
@@ -4921,13 +4921,13 @@ I cannot live on tomorrow’s bread.
             I live here, too.
             I want my freedom
             Just as you.   
-----
+____
 
 
 
 ===== Destruction by Charles Baudelaire translated by c. F. Macintyre
 [verse]
-----
+____
 At my side the Demon writhes forever,
 Swimming around me like impalpable air;
 As I breathe, he burns my lungs like fever
@@ -4945,13 +4945,13 @@ The wilderness of Ennui, deserted and broad,
 And into my bewildered eyes he throws
 Visions of festering wounds and filthy clothes,
 And all Destruction's bloody retinue.
-----
+____
 
 
 
 ===== Try to Praise the Mutilated World by Adam Zagajewski translated by Clare Cavanagh
 [verse]
-----
+____
 Try to praise the mutilated world.
 Remember June's long days,
 and wild strawberries, drops of rosé wine.
@@ -4973,13 +4973,13 @@ Praise the mutilated world
 and the gray feather a thrush lost,
 and the gentle light that strays and vanishes
 and returns.
-----
+____
 
 
 
 ===== The Great Tsunami by Michele Wolf
 [verse]
-----
+____
 She recognizes its crest in the way he looks at her. 
 The wave is as vast as the roiling mass in the Japanese
 Print they had paused in front of at the museum,
@@ -4996,24 +4996,24 @@ For the whole of a life?
 
 Does the moon peer down
 At the tides and hunger for home?
-----
+____
 
 
 
 
 ===== A Plague of Poets by C. D. Wright
 [verse]
-----
+____
 A question posed to Flannery O'Connor, as to whether writing programs stifled writers, drew the famous, tart rejoinder that in her opinion they didn't stifle nearly enough.
 
 Even if, as it is often said, there are too many of us—poets, that is—that the field is too crowded (as opposed to too many hedge-fund managers or too many pharmaceutical lobbyists or too many fundamentalists), time, rejection, discouragement, and the inevitable practicalities and detours (some of them fortuitous), as well as wasted energy, the slow seepage or sudden shift of interest, premature death, burdensome debt or better offers, usually cure the problem of overpopulation. In other words, there are plenty of natural predators
-----
+____
 
 
 
 ===== A Litany for Survival by Audre Lorde
 [verse]
-----
+____
 For those of us who live at the shoreline
 standing upon the constant edges of decision
 crucial and alone
@@ -5061,12 +5061,12 @@ we are still afraid
 So it is better to speak
 remembering
 we were never meant to survive.
-----
+____
 
 
 ===== When I have Fears That I May Cease to Be by John Keats
 [verse]
-----
+____
 When I have fears that I may cease to be
    Before my pen has gleaned my teeming brain,
 Before high-pilèd books, in charactery,
@@ -5081,12 +5081,12 @@ Never have relish in the faery power
    Of unreflecting love—then on the shore
 Of the wide world I stand alone, and think
 Till love and fame to nothingness do sink.
-----
+____
 
 
 ===== [Enemies] by Wendell Berry
 [verse]
-----
+____
 If you are not to become a monster,
 you must care what they think.
 If you care what they think,
@@ -5106,12 +5106,12 @@ on a green branch. You must not
 think of them again, except
 as monsters like yourself,
 pitiable because unforgiving.
-----
+____
 
 
 ===== To the Swimmer by Countee Cullen
 [verse]
-----
+____
 Now as I watch you, strong of arm and endurance, battling and struggling
 With the waves that rush against you, ever with invincible strength returning
 Into my heart, grown each day more tranquil and peaceful, comes a fierce longing
@@ -5124,13 +5124,13 @@ Over the treasures beneath.
 My heart goes out to you of dauntless courage and spirit indomitable,
 And though my lips would speak, my spirit forbids me to ask,
 “Is your heart as true as your arm?”
-----
+____
 
 
 
 ===== Beginning by James Wright
 [verse]
-----
+____
 The moon drops one or two feathers into the field.   
 The dark wheat listens.
 Be still.
@@ -5145,13 +5145,13 @@ Or move.
 I listen.
 The wheat leans back toward its own darkness,
 And I lean toward mine.
-----
+____
 
 
 
 ===== After Filing for Divorce by Chelsea Rathburn
 [verse]
-----
+____
 Your paperwork in, it’s like the morning after
 a party, the shaken survey of damage,
 a waste of bottles where there was laughter.
@@ -5166,13 +5166,13 @@ So you start to clean, as much as you are able,
 and think how far those hours have fled from you,
 before the hangover and your sour tongue,
 when you felt lovely, and infinite, and young.
-----
+____
 
 
 
 ===== In Passing by Lisel Mueller
 [verse]
-----
+____
 How swiftly the strained honey
 of afternoon light
 flows into darkness
@@ -5184,13 +5184,13 @@ in order to break into blossom
 as if what exists, exists
 so that it can be lost
 and become precious
-----
+____
 
 
 
 Song: “Blow, blow, thou winter wind” by William Shakespeare
 [verse]
-----
+____
 Blow, blow, thou winter wind,
    Thou art not so unkind
       As man’s ingratitude;
@@ -5209,13 +5209,13 @@ Most friendship is feigning, most loving mere folly:
       Thy sting is not so sharp
       As friend remembered not.
 Heigh-ho! sing, heigh-ho! unto the green holly...
-----
+____
 
 
 
 ===== New Year’s Day by Kim Addonizio
 [verse]
-----
+____
 The rain this morning falls   
 on the last of the snow
 
@@ -5278,12 +5278,12 @@ a little longer in the cold
 
 blessing of the rain,   
 and lift my face to it.
-----
+____
 
 
 ===== Q & A by Kenneth Fearing
 [verse]
-----
+____
 Where analgesia may be found to ease the infinite, minute scars of the day;
 What final interlude will result, picked bit by bit from the morning's hurry, the lunch-hour boredom, the fevers of the night;
 Why this one is cherished by the gods, and that one not;
@@ -5299,7 +5299,7 @@ Nor what pleasure the mulitudes have, brining lunch and the children to watch th
 
 Nor why the sun should rise tomorrow,
 Nor how the moon still weaves upon the ground, through the leaves, so much silence and so much peace.
-----
+____
 
 
 
@@ -5559,13 +5559,13 @@ ____
 
 ===== Nikos Kazantzakis, 1946
 [verse]
-----
+____
 How simple a frugal a thing is happiness: a glass of wine, a roast chestnut, a wretched little brazier, the sound of the sea.
-----
+____
 
 ===== John Perry Barlow, 1977
 [verse]
-----
+____
 Principles Of Adult Behavior
 
 1. Be patient. No matter what.
@@ -5593,58 +5593,58 @@ Principles Of Adult Behavior
 23. Live memorably.
 24. Love yourself.
 25. Endure.
-----
+____
 
 ===== Thomas Szasz, 1973
 [verse]
-----
+____
 Happiness is an imaginary condition, formerly attributed by the living to the dead, now usually attributed by adults to children, and by children to adults. Except for the time when Christopher got punched in the stomach.
-----
+____
 
 ===== Boethius, c. 520
 [verse]
-----
+____
 For in every ill turn of fortune the most unhappy sort of unfortunate man is the one who has been happy
-----
+____
 
 ===== Aleksandr Solzhenitsyn, The Gulag Archipelago 1918–1956
 [verse]
-----
+____
 If only it were all so simple! If only there were evil people somewhere insidiously committing evil deeds, and it were necessary only to separate them from the rest of us and destroy them. But the line dividing good and evil cuts through the heart of every human being. And who is willing to destroy a piece of his own heart?
-----
+____
 
 ===== Jean Anouilh, 1934
 [verse]
-----
+____
 There will always be a lost dog somewhere that will prevent me from being happy/
-----
+____
 
 ===== Ralph Waldo Emerson, 1844
 [verse]
-----
+____
 Just to fill the hour -- that is happiness.
-----
+____
 
 ===== Clarice Lispector, from "State of Grace"
 [verse]
-----
+____
 It is better if the state of grace is short lived. Should it last too long, as I well know, familiar as I am with my almost childish ambitions.  I should end up trying to penetrate the enigmas of nature.  And that would be enough to banish all grace.  For grace is a gift that makes no demands, but it would disappear if we were to start demanding answers.  We must never forget that the state of grace is only a tiny aperture which allows us to glimpse a sort of tranquil paradise, but it is not an entrance, nor does it give us the right to eat the fruits of the orchards.
 
 One emerges from a state of grace with slear skin and open, thoughtful eyes.  And even without a trace of happiness, it is as if one's whole body were bathed ina gentle smile.  And one comes away a better person that when one entered.  To have known grace is to have experienced something that appeasrs to redeem the human condition is revealed in all its wretched poverty, therevy teaching us to love more, to forgive more, and show greater faith.  One begins to have a certain confidence in suffering and its ways, which can so often become unbearable.  
 
 Some days are so arid and empty that I would give years of my life in exchange for a few inutes of grace.
-----
+____
 
 ===== Laozi, c 550 BC
 [verse]
-----
+____
 There is no greater disaster than not to know contentment.
-----
+____
 
 ===== John Dryden, 1665
 [verse]
-----
+____
 For all the happiness mankind can gain
 Is not in pleasure, but in reset from pain.
-----
+____
 
