@@ -1192,26 +1192,6 @@ to hold them.
 ____
 
 
-===== i haven’t masturbated in five days for fear of crying by Eloisa Amezcua
-[verse]
-____
-because we know distance too well
-because the blood bank didn’t have enough blood for nana & her new knee
-because i see your car a car like yours parked across the street from my apartment
-because the same night awaits us all
-because arizona & the drought & i was seven when it started
-because nana used to sleep with a belt tied around her waist so tight to wake like an hourglass
-because i wait on you
-because i want to know the antonym to every word
-because we speak to each other in our sleep
-because i do my best thinking in the shower so i take long showers
-because you kiss the parts of my body i hate most
-because you can love someone & not remember their birthday
-because sometimes i want the wind & it is impossible
-because from the airplane i can see both oceans & where they meet
-____
-
-
 ===== Honeymoon by Brenda Shaughnessy
 [verse]
 ____
@@ -5303,6 +5283,90 @@ ____
 
 
 
+
+===== From a Window By Christian Wiman
+[verse]
+____
+Incurable and unbelieving
+in any truth but the truth of grieving,
+
+I saw a tree inside a tree
+rise kaleidoscopically
+
+as if the leaves had livelier ghosts.
+I pressed my face as close
+
+to the pane as I could get
+to watch that fitful, fluent spirit
+
+that seemed a single being undefined
+or countless beings of one mind
+
+haul its strange cohesion
+beyond the limits of my vision
+
+over the house heavenwards.
+Of course I knew those leaves were birds.
+
+Of course that old tree stood
+exactly as it had and would
+
+(but why should it seem fuller now?)
+and though a man's mind might endow
+
+even a tree with some excess
+of life to which a man seems witness,
+
+that life is not the life of men.
+And that is where the joy came in.
+____
+
+
+===== The World Is Too Much With Us BY WILLIAM WORDSWORTH
+[verse]
+____
+The world is too much with us; late and soon,
+Getting and spending, we lay waste our powers;—
+Little we see in Nature that is ours;
+We have given our hearts away, a sordid boon!
+This Sea that bares her bosom to the moon;
+The winds that will be howling at all hours,
+And are up-gathered now like sleeping flowers;
+For this, for everything, we are out of tune;
+It moves us not. Great God! I’d rather be
+A Pagan suckled in a creed outworn;
+So might I, standing on this pleasant lea,
+Have glimpses that would make me less forlorn;
+Have sight of Proteus rising from the sea;
+Or hear old Triton blow his wreathèd horn.
+____
+
+===== Insomnia by Elizabeth Bishop
+[verse]
+____
+The moon in the bureau mirror
+looks out a million miles
+(and perhaps with pride, at herself,
+but she never, never smiles)
+far and away beyond sleep, or
+perhaps she's a daytime sleeper.
+
+By the Universe deserted,
+she'd tell it to go to hell,
+and she'd find a body of water,
+or a mirror, on which to dwell.
+So wrap up care in a cobweb
+and drop it down the well
+
+into that world inverted
+where left is always right,
+where the shadows are really the body,
+where we stay awake all night,
+where the heavens are shallow as the sea
+is now deep, and you love me.
+____
+
+
 ==== Quotations
 
 
@@ -5616,7 +5680,7 @@ ____
 ===== Jean Anouilh, 1934
 [verse]
 ____
-There will always be a lost dog somewhere that will prevent me from being happy/
+There will always be a lost dog somewhere that will prevent me from being happy.
 ____
 
 ===== Ralph Waldo Emerson, 1844
@@ -5669,4 +5733,53 @@ ____
 [verse]
 ____
 All visible objects, man, are but as pasteboard masks. But in each event — in the living act, the undoubted deed — there, some unknown but still reasoning thing puts forth the mouldings of its features from behind the unreasoning mask. If man will strike, strike through the mask! How can the prisoner reach outside except by thrusting through the wall? To me, the white whale is that wall, shoved near to me. Sometimes I think there's naught beyond. But 'tis enough. He tasks me; he heaps me; I see in him outrageous strength, with an inscrutable malice sinewing it. That inscrutable thing is chiefly what I hate; and be the white whale agent, or be the white whale principal, I will wreak that hate upon him.
+____
+
+===== Laura Cereta, 1486
+[verse]
+____
+By staying up all night, I become a thief of time, sequestering a space from the rest of the day.
+____
+
+===== Ernest Hemingway, 1929
+[verse]
+____
+The things of the night cannot be explained in the day, because they do not exist.
+____
+
+===== Brihadaranyaka Upanishad, c. 700BC
+[verse]
+____
+When one goes to sleep, he takes along the material of this all-containing world, himself tears it aprt, himself uilds it up, and dreams by his own brightness, by his own light.
+____
+
+===== John Milton, 1637
+[verse]
+____
+What hath night to do with sleep?
+____
+
+===== Samantha Hunt, 2007
+[verse]
+____
+THe uncertain position we all maintain in life asking when will violence strike, when will devastation occur, leaves us looking like the hapless swimmers at the beginning of each Jaws movie.  Innocent, tender, and delicious.  Our legs tread water, buoyed by all that is right and good and deserved in this world, a house, healthy children, clean food to eat, love.  While that animatronic shark, a beast without mercy, catches the scent of blood and locks in on his target.
+____
+
+===== Henry Beston, 1928
+[verse]
+____
+Our fantastic civilization has fallen out of touch with many aspects of nature, and with none more completely than with night. Primitive folk, gathered at a cave mouth round a fire, do not fear night; they fear, rather, the energies and creatures to whom night gives power; we of the age of the machines, having delivered ourselves of nocturnal enemies, now have a dislike of night itself. With lights and ever more lights, we drive the holiness and beauty of night back to the forests and the sea; the little villages, the crossroads even, will have none of it. Are modern folk, perhaps, afraid of night? Do they fear that vast serenity, the mystery of infinite space, the austerity of stars? Having made themselves at home in a civilization obsessed with power, which explains its whole world in terms of energy, do they fear at night for their dull acquiescence and the pattern of their beliefs? Be the answer what it will, to-day's civilization is full of people who have not the slightest notion of the character or the poetry of night, who have never even seen night. Yet to live thus, to know only artificial night, is as absurd and evil as to know only artificial day.
+____
+
+[verse]
+____
+Learn to reverence night and to put away the vulgar fear of it, for, with the banishment of night from the experience of man, there vanishes as well a religious emotion, a poetic mood, which gives depth to the adventure of humanity. By day, space is one with the earth and with man — it is his sun that is shining, his clouds that are floating past; at night, space is his no more. When the great earth, abandoning day, rolls up the deeps of the heavens and the universe, a new door opens for the human spirit, and there are few so clownish that some awareness of the mystery of being does not touch them as they gaze. For a moment of night we have a glimpse of ourselves and of our world islanded in its stream of stars — pilgrims of mortality, voyaging between horizons across eternal seas of space and time. Fugitive though the instant be, the spirit of man is, during it, ennobled by a genuine moment of emotional dignity, and poetry makes its own both the human spirit and experience.
+____
+
+===== Loren Eiseley, 1956
+[verse]
+____
+In a way, it is the fear of the tife, the night tide, I callit, because that is the way you come to feel it--invisible, imperceptible almost, unless it is looked for--and yet as your grow older, you realize that it is always there, swirling like vapor just beyond the edge of the map at evening and similarly out to the ends of the universe.  Or at least it gives you that kind of sensation--a need to huddle in somehwere with light.
+
+Maybe that is the real reason why men string lamps far out into the country lanes and try to run down everything with red eyes that happens to waddle across the road in front of their headlights.  It is cruel but revelatory: we are insecure, and this is our warfare with the dark. It began when man first lit a fire at a cave mouth and the eyes he feared—very big eyes they were then—began to blink and draw back.  So he lights and lights in a passion for illumination that is insatiable—a poor day-born thing contending against one of the greatest powers in the universe.  Even man's own domestic animals, the creatures he has chosen to bring in to the fire beside him, grow suspect in the evening.  His cat hints alone through the weeds, and his dog whines and snuffles at the door.  They all have their allegiance to the dark.  They are never wholly his.
 ____
