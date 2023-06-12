@@ -4461,7 +4461,7 @@ ____
 
 
 
-=====Moss-Gathering by Theodore Roethke
+===== Moss-Gathering by Theodore Roethke
 [verse]
 ____
 To loosen with all ten fingers held wide and limber
