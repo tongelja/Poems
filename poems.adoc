@@ -5322,7 +5322,7 @@ And that is where the joy came in.
 ____
 
 
-===== The World Is Too Much With Us BY WILLIAM WORDSWORTH
+===== The World Is Too Much With Us By William Wordsworth
 [verse]
 ____
 The world is too much with us; late and soon,
@@ -5773,7 +5773,7 @@ ____
 ===== Thomas Szasz, 1973
 [verse]
 ____
-Happiness is an imaginary condition, formerly attributed by the living to the dead, now usually attributed by adults to children, and by children to adults. Except for the time when Christopher got punched in the stomach.
+Happiness is an imaginary condition, formerly attributed by the living to the dead, now usually attributed by adults to children, and by children to adults. 
 ____
 
 ===== Boethius, c. 520
