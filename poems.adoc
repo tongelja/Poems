@@ -2547,7 +2547,7 @@ just beyond their reach.
 ____
 
 
-===== The Tuft of FLowers by Robert Frost
+===== The Tuft of Flowers by Robert Frost
 [verse]
 ____
 I went to turn the grass once after one
@@ -4029,7 +4029,7 @@ flicker of shade and sunlight
 as the wind moves through the leaves.
 ____
 
-Forgetfulness by Billy Collins
+==== Forgetfulness by Billy Collins
 [verse]
 ____
 The name of the author is the first to go
@@ -4344,7 +4344,7 @@ ____
 
 
 
-The Infirmament by Dean Young
+===== The Infirmament by Dean Young
 [verse]
 ____
 An end is always punishment for a beginning.
