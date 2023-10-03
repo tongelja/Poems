@@ -5398,7 +5398,7 @@ ____
 
 
 
-Wanting Sumptuous Heavens by Robert Bly
+===== Wanting Sumptuous Heavens by Robert Bly
 [verse]
 ____
 No one grumbles among the oyster clans,
@@ -5412,7 +5412,7 @@ Drinks his dark rum all day, and is content.
 ____
 
 
-Why Are Your Poems so Dark?  by Linda Pastan
+===== Why Are Your Poems so Dark?  by Linda Pastan
 [verse]
 ____
 Isn't the moon dark too,
@@ -5516,6 +5516,92 @@ understandable and still
 resurrectant, mnemonic, delivered
 out of and back in to oblivion.
 ____
+
+===== The Second Coming by William Butler Yeats
+[verse]
+____
+Turning and turning in the widening gyre   
+The falcon cannot hear the falconer;
+Things fall apart; the centre cannot hold;
+Mere anarchy is loosed upon the world,
+The blood-dimmed tide is loosed, and everywhere   
+The ceremony of innocence is drowned;
+The best lack all conviction, while the worst   
+Are full of passionate intensity.
+
+Surely some revelation is at hand;
+Surely the Second Coming is at hand.   
+The Second Coming! Hardly are those words out   
+When a vast image out of Spiritus Mundi
+Troubles my sight: somewhere in sands of the desert   
+A shape with lion body and the head of a man,   
+A gaze blank and pitiless as the sun,   
+Is moving its slow thighs, while all about it   
+Reel shadows of the indignant desert birds.   
+The darkness drops again; but now I know   
+That twenty centuries of stony sleep
+Were vexed to nightmare by a rocking cradle,   
+And what rough beast, its hour come round at last,   
+Slouches towards Bethlehem to be born?
+____
+
+===== Not Waving but Drowning by Stevie Smith
+[verse]
+____
+Nobody heard him, the dead man,   
+But still he lay moaning:
+I was much further out than you thought   
+And not waving but drowning.
+
+Poor chap, he always loved larking
+And now he’s dead
+It must have been too cold for him his heart gave way,   
+They said.
+
+Oh, no no no, it was too cold always   
+(Still the dead one lay moaning)   
+I was much too far out all my life   
+And not waving but drowning.
+____
+
+
+===== I live my life in widening circles by  Rainer Maria Rilke
+[verse]
+____
+I live my life in widening circles
+that reach out across the world.
+I may not complete this last one
+but I will give myself to it.
+ 
+I circle around God, around the primordial tower.
+I’ve been circling for thousands of years
+and I still don’t know: am I a falcon,
+a storm, or a great song? 
+____
+
+===== I am the father by  Rainer Maria Rilke
+[verse]
+____
+I am the father; but the son is more.
+He is all the father was, and what the father was no
+grows great in him.  he is the future
+and the return.  he is the womb, he is the sea...
+____
+
+===== Sometimes a man rises from the supper table by  Rainer Maria Rilke
+[verse]
+____
+Sometimes a man rises from the supper table
+and goes outside.  And he keeps on going
+because somewhere to the east there's a church.
+His children bless his name as if he were dead.
+
+Another man stays at hime until he dies,
+stays with plates and glasses.
+So then it is his children who go out
+into the world, seeking the church that he forggot.
+____
+
 
 ==== Quotations
 
