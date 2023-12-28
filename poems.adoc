@@ -5738,9 +5738,9 @@ Phantasmal flux of moments? —"
 ____
 
 
-Happiness
-BY RAYMOND CARVER
-Share on Twitter	Share on Facebook	Forward to a Friend
+===== Happiness By Raymond Carver
+[verse]
+____
 So early it's still almost dark out.
 I'm near the window with coffee,
 and the usual early morning stuff
@@ -5864,7 +5864,7 @@ ____
 [verse]
 ____
 We live as we dream ... alone.
-—Joseph Conrad, “Heart of Darkness”
+Joseph Conrad, “Heart of Darkness”
 
 I was not born to this
 wariness. I came of age
@@ -6505,7 +6505,7 @@ ____
 ===== Samantha Hunt, 2007
 [verse]
 ____
-THe uncertain position we all maintain in life asking when will violence strike, when will devastation occur, leaves us looking like the hapless swimmers at the beginning of each Jaws movie.  Innocent, tender, and delicious.  Our legs tread water, buoyed by all that is right and good and deserved in this world, a house, healthy children, clean food to eat, love.  While that animatronic shark, a beast without mercy, catches the scent of blood and locks in on his target.
+The uncertain position we all maintain in life asking when will violence strike, when will devastation occur, leaves us looking like the hapless swimmers at the beginning of each Jaws movie.  Innocent, tender, and delicious.  Our legs tread water, buoyed by all that is right and good and deserved in this world, a house, healthy children, clean food to eat, love.  While that animatronic shark, a beast without mercy, catches the scent of blood and locks in on his target.
 ____
 
 ===== Henry Beston, 1928
@@ -6526,4 +6526,5 @@ In a way, it is the fear of the tife, the night tide, I callit, because that is 
 
 Maybe that is the real reason why men string lamps far out into the country lanes and try to run down everything with red eyes that happens to waddle across the road in front of their headlights.  It is cruel but revelatory: we are insecure, and this is our warfare with the dark. It began when man first lit a fire at a cave mouth and the eyes he feared—very big eyes they were then—began to blink and draw back.  So he lights and lights in a passion for illumination that is insatiable—a poor day-born thing contending against one of the greatest powers in the universe.  Even man's own domestic animals, the creatures he has chosen to bring in to the fire beside him, grow suspect in the evening.  His cat hints alone through the weeds, and his dog whines and snuffles at the door.  They all have their allegiance to the dark.  They are never wholly his.
 ____
+
 
