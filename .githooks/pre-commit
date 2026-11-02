@@ -1,0 +1,8 @@
+#!/bin/bash
+# Refuse commits where poems.adoc is broken. Checks the staged version.
+# Turn on once per clone with:  make hooks
+git diff --cached --name-only | grep -qx 'poems.adoc' || exit 0
+git show :poems.adoc | python3 "$(git rev-parse --show-toplevel)/web/check_adoc.py" - || {
+    echo "Commit stopped: fix poems.adoc (or skip the check with git commit --no-verify)." >&2
+    exit 1
+}

@@ -7,5 +7,9 @@ serve:
 	cd web && uv run flask --app poemsApp run --debug --port 5056
 deploy:
 	deploy/deploy.sh
+hooks:
+	git config core.hooksPath .githooks
+check:
+	python3 web/check_adoc.py poems.adoc
 clean:
 	rm *.pdf

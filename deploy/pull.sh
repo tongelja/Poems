@@ -10,6 +10,12 @@ before=$(git rev-parse HEAD)
 after=$(git rev-parse origin/master)
 [ "$before" = "$after" ] && exit 0
 
+# Don't load a broken poems.adoc; keep the last good version until it's fixed.
+if ! git show origin/master:poems.adoc | python3 web/check_adoc.py -; then
+    echo "Not updating: poems.adoc on GitHub has problems (listed above)." >&2
+    exit 1
+fi
+
 git merge --quiet --ff-only origin/master
 echo "Updated $before -> $after"
 
