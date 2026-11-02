@@ -17,7 +17,8 @@ if [ ! -x ~/.local/bin/uv ]; then
     curl -LsSf https://astral.sh/uv/install.sh | sh
 fi
 if [ ! -d ~/Poems/.git ]; then
-    rm -rf ~/Poems
+    # An older rsync-style copy: keep it aside rather than deleting it.
+    [ -e ~/Poems ] && mv ~/Poems ~/Poems.before-git-$(date +%Y%m%d%H%M%S)
     git clone --quiet "$REPO_URL" ~/Poems
 fi
 cd ~/Poems
