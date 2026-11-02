@@ -10,7 +10,7 @@
 </nav>
 {% endif %}
 
-<article class="entry {{ entry.kind }}">
+<article class="entry {{ entry.kind }}{% if random_view and static_site %} pending{% endif %}" id="entry">
   <p class="section">{{ entry.section }}{% if entry.parts %} · {{ entry.part }} of {{ entry.parts }}{% endif %}</p>
   <h1>{{ entry.title }}</h1>
   {% if entry.author %}<p class="author">{{ entry.author }}</p>{% endif %}
@@ -23,13 +23,56 @@
 {% if random_view %}
 <div class="actions">
   <a class="button" id="another" href="{{ url_for('home', kind=kind, after=entry.slug) }}">Another <kbd>space</kbd></a>
-  <a href="{{ url_for('entry', slug=entry.slug) }}">Permalink</a>
+  <a id="permalink" href="{{ url_for('entry', slug=entry.slug) }}">Permalink</a>
 </div>
 <script>
+  {% if static_site %}
+  // Static site: pick and show a random entry here, since there's no server to do it.
+  const kind = new URLSearchParams(location.search).get('kind');
+  const article = document.getElementById('entry');
+  const entries = fetch('/api/entries.json').then(r => r.json())
+    .then(all => all.filter(e => !kind || e.kind === kind));
+  let current = null;
+  document.querySelectorAll('.kinds a').forEach(a => {
+    const on = new URL(a.href).searchParams.get('kind') === kind;
+    if (on) a.setAttribute('aria-current', 'true'); else a.removeAttribute('aria-current');
+  });
+
+  function el(tag, cls, text) {
+    const node = document.createElement(tag);
+    if (cls) node.className = cls;
+    if (text != null) node.textContent = text;
+    return node;
+  }
+
+  async function another() {
+    const all = await entries;
+    const pool = all.length > 1 ? all.filter(e => e.slug !== current) : all;
+    const e = pool[Math.floor(Math.random() * pool.length)];
+    current = e.slug;
+    const parts = [el('p', 'section', e.section + (e.parts ? ` · ${e.part} of ${e.parts}` : '')), el('h1', null, e.title)];
+    if (e.author) parts.push(el('p', 'author', e.author));
+    e.blocks.forEach((b, i) => {
+      if (i) parts.push(el('hr', 'break'));
+      parts.push(el('div', 'text', b));
+    });
+    article.className = 'entry ' + e.kind;
+    article.replaceChildren(...parts);
+    document.title = e.title + (e.author ? ' · ' + e.author : '');
+    document.getElementById('permalink').href = `/p/${e.slug}/`;
+    window.scrollTo(0, 0);
+  }
+
+  another().catch(() => article.classList.remove('pending'));
+  document.getElementById('another').addEventListener('click', e => { e.preventDefault(); another(); });
+  const next = another;
+  {% else %}
+  const next = () => { location.href = document.getElementById('another').href; };
+  {% endif %}
   document.addEventListener('keydown', e => {
     if ((e.key === ' ' || e.key === 'r') && !e.metaKey && !e.ctrlKey && !e.altKey) {
       e.preventDefault();
-      location.href = document.getElementById('another').href;
+      next();
     }
   });
 </script>

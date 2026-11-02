@@ -95,3 +95,5 @@ kbd { font: 0.72rem var(--font-body); padding: 1px 6px; border: 1px solid curren
 .list li { padding: 6px 0; border-bottom: 1px solid var(--line); }
 .list a { font-family: var(--font-head); font-size: 1.05rem; }
 .by { color: var(--muted); font-size: 0.9rem; margin-left: 6px; }
+
+.entry.pending { visibility: hidden; }   /* static site: until the random pick is shown */

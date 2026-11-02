@@ -1,0 +1,33 @@
+# Builds the static Poems site and publishes it to Azure Static Web Apps.
+# Runs on every push to master, and on demand from the Actions tab.
+# A broken poems.adoc stops the deploy, so the last good version stays up.
+name: Deploy to Azure
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v5
+
+      - name: Check poems.adoc
+        run: uv run python web/check_adoc.py poems.adoc
+
+      - name: Build site
+        working-directory: web
+        run: uv run python build_static.py --out ../dist
+
+      - name: Publish to Azure
+        uses: Azure/static-web-apps-deploy@v1
+        with:
+          azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}
+          action: upload
+          app_location: dist
+          skip_app_build: true
+          skip_api_build: true

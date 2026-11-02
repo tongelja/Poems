@@ -22,6 +22,15 @@ show up on their own.
 - on GitHub after every push, including edits made in the web editor (a failed check emails you)
 - on the Pi before it pulls, so a broken version never reaches the site
 
+## Azure
+
+Every push to master also builds a static copy of the site (`web/build_static.py`)
+and publishes it to Azure Static Web Apps (`.github/workflows/azure-static-web-app.yml`).
+The build stops if poems.adoc has problems, so the last good version stays up.
+On the static site the random pick on `/` happens in the browser.
+
+    cd web && uv run python build_static.py     # build into dist/ to look at locally
+
 ## The Pi (http://192.168.3.95:5056)
 
 The Pi keeps a git checkout in `~/Poems`. `deploy/pull.sh` runs every 5
