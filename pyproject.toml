@@ -1,0 +1,10 @@
+[project]
+name = "poems"
+version = "0.1.0"
+description = "Poems and quotations from poems.adoc, served as a small web site"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "flask>=3.1.3",
+    "gunicorn>=26.2.0",
+]

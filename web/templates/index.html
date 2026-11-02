@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+{% block title %}All · Poems{% endblock %}
+{% block content %}
+<section class="intro">
+  <h1>Everything</h1>
+  <p>{{ total }} entries. Or read a <a href="{{ url_for('home') }}">random one</a>.</p>
+  <input id="filter" class="filter" placeholder="Filter by title or author…" aria-label="Filter">
+</section>
+
+{% for section, entries in sections.items() %}
+<section class="group">
+  <h2>{{ section }} <span class="count">{{ entries|length }}</span></h2>
+  <ul class="list">
+    {% for e in entries %}
+    <li><a href="{{ url_for('entry', slug=e.slug) }}">{{ e.title }}{% if e.parts %} ({{ e.part }}){% endif %}</a>{% if e.author %} <span class="by">{{ e.author }}</span>{% endif %}</li>
+    {% endfor %}
+  </ul>
+</section>
+{% endfor %}
+
+<script>
+  document.getElementById('filter').addEventListener('input', e => {
+    const q = e.target.value.trim().toLowerCase();
+    document.querySelectorAll('.group').forEach(group => {
+      let shown = 0;
+      group.querySelectorAll('li').forEach(li => {
+        const match = li.textContent.toLowerCase().includes(q);
+        li.hidden = !match;
+        shown += match;
+      });
+      group.hidden = shown === 0;
+    });
+  });
+</script>
+{% endblock %}

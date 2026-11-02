@@ -1,0 +1,42 @@
+{% extends 'base.html' %}
+{% block title %}{{ entry.title }}{% if entry.author %} · {{ entry.author }}{% endif %}{% endblock %}
+{% block content %}
+{% if random_view %}
+<nav class="kinds" aria-label="Show">
+  <a href="{{ url_for('home') }}" {% if not kind %}aria-current="true"{% endif %}>Anything</a>
+  {% for k, label in kinds.items() %}
+  <a href="{{ url_for('home', kind=k) }}" {% if kind == k %}aria-current="true"{% endif %}>{{ label }}</a>
+  {% endfor %}
+</nav>
+{% endif %}
+
+<article class="entry {{ entry.kind }}">
+  <p class="section">{{ entry.section }}{% if entry.parts %} · {{ entry.part }} of {{ entry.parts }}{% endif %}</p>
+  <h1>{{ entry.title }}</h1>
+  {% if entry.author %}<p class="author">{{ entry.author }}</p>{% endif %}
+  {% for block in entry.blocks %}
+  {% if not loop.first %}<hr class="break">{% endif %}
+  <div class="text">{{ block }}</div>
+  {% endfor %}
+</article>
+
+{% if random_view %}
+<div class="actions">
+  <a class="button" id="another" href="{{ url_for('home', kind=kind, after=entry.slug) }}">Another <kbd>space</kbd></a>
+  <a href="{{ url_for('entry', slug=entry.slug) }}">Permalink</a>
+</div>
+<script>
+  document.addEventListener('keydown', e => {
+    if ((e.key === ' ' || e.key === 'r') && !e.metaKey && !e.ctrlKey && !e.altKey) {
+      e.preventDefault();
+      location.href = document.getElementById('another').href;
+    }
+  });
+</script>
+{% else %}
+<nav class="pager">
+  <a href="{{ url_for('entry', slug=prev.slug) }}">‹ {{ prev.title }}</a>
+  <a href="{{ url_for('entry', slug=next.slug) }}">{{ next.title }} ›</a>
+</nav>
+{% endif %}
+{% endblock %}
