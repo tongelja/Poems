@@ -7189,56 +7189,45 @@ How can you say to me, I am a king?
 ____
 
 
-===== From King James Bible
+===== King James Bible, Hebrews
 [verse]
 ____
-Hebrews, Ch. 12, 1
+Ch. 12, 1
 Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us.
 ____
 
+===== King James Bible, Corinthians 1
 [verse]
 ____
-Corinthians 1, Ch. 13
+Ch. 13
 Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.
-
 And though I have the gift of prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing.
-
 And though I bestow all my goods to feed the poor, and though I give my body to be burned, and have not charity, it profiteth me nothing.
-
 Charity suffereth long, and is kind; charity envieth not;  charity vaunteth not itself, is not puffed up,
-
 Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil;
-
 Rejoiceth not in iniquity, but rejoiceth in the truth;
-
 Beareth all things, believeth all things, hopeth all things, endureth all things.
-
 Charity never faileth: but whether there be prophecies, they shall fail; whether there be tongues, they shall cease; whether there be knowledge, it shall vanish away.
-
 For we know in part, and we prophesy in part.
-
 But when that which is perfect is come, then that which is in part shall be done away.
-
 When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man,
-
 I put away childish things.
-
 For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known.
-
 And now abideth faith, hope, charity, these three; but the greatest of these is charity.
 ____
 
+===== King James Bible, Mark
 [verse]
 ____
-Mark, Ch. 8, 35-37
+Ch. 8, 35-37
 For what shall it profit a man, if he shall gain the whole world, and lose his own soul?
-
 Or what shall a man give in exchange for his soul?
 ____
 
+===== King James Bible, Matthew
 [verse]
 ____
-Matthew, Ch. 6 19-23
+Ch. 6 19-23
 Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal:
 
 But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:
@@ -7250,9 +7239,10 @@ The light of the body is the eye: if therefore thine eye be single, thy whole bo
 But if thine eye be evil, thy whole body shall be full of darkness. If therefore the light that is in thee be darkness, how great is that darkness!
 ____
 
+===== King James Bible, Matthew
 [verse]
 ____
-Matthew, Ch. 11, 28-30
+Ch. 11, 28-30
 Come unto me, all ye that labour and are heavy laden, and I will give you rest
 
 Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.
@@ -7260,26 +7250,28 @@ Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye
 For my yoke is easy, and my burden is light.
 ____
 
+===== King James Bible, Luke
 [verse]
 ____
-Luke, Ch. 6, 37
+Ch. 6, 37
 Judge not, and ye shall not be judged: condemn not, and ye shall not be condemned: forgive, and ye shall be forgiven:
-
 Give, and it shall be given unto you; good measure, pressed down, and shaken together, and running over, shall men give into your bosom.  For with the same measure that ye mete withal it shall be measured to you again.
 ____
 
+===== King James Bible, Ecclesiastes
 [verse]
 ____
-Ecclesiastes, Ch. 9 
+Ch. 9 
 Live joyfully with the wife whom thou lovest all the days of the life of thy vanity, which he hath given thee under the sun, all the days of thy vanity: for that is thy portion in this life, and in thy labour which thou takest  under the sun. 
 Whatsoever thy hand findeth to do, do it with thy might; for there is  no work, nor device, nor knowledge, nor wisdom, in the grave,  whither thou goest. 
 I returned, and saw under the sun, that the race is not to the swift,  nor the battle to the strong, neither yet bread to the wise, nor yet riches  to men of understanding, nor yet favour to men of skill; but time and  chance happeneth to them all. 
 For man also knoweth not his time: as the fishes that are taken in an evil net,  and as the birds that are caught in the snare; so are the sons of men  snared in an evil time, when it falleth suddenly upon them. 
 ____
 
+===== King James Bible, Job
 [verse]
 ____
-Job, Ch. 3, 20-25
+Ch. 3, 20-25
 Wherefore is light given to him that is in misery, and life unto the bitter in soul;  
 Which long for death, but it cometh not; and dig for it more than for hid treasures;  
 Which rejoice exceedingly, and are glad, when they can find the grave?  
@@ -7291,7 +7283,7 @@ ____
 
 [verse]
 ____
-Job, Ch. 6, 11-14
+Ch. 6, 11-14
 What is my strength, that I should hope? and what is mine end, that I should prolong my life?  
 Is my strength the strength of stones? or is my flesh of brass?  
 Is not my help in me? and is wisdom driven quite from me?  
@@ -7300,7 +7292,7 @@ ____
 
 [verse]
 ____
-Job, Ch. 7, 1-8
+Ch. 7, 1-8
 Is there not an appointed time to man upon earth? are not his days also like the days of an hireling?  
 As a servant earnestly desireth the shadow, and as an hireling looketh for reward of his work:  
 So am I made to possess months of vanity, and wearisome nights are appointed to me. 
@@ -7313,7 +7305,7 @@ ____
 
 [verse]
 ____
-Job, Ch. 7, 17-21
+Ch. 7, 17-21
 What is man, that thou shouldest magnify him? and that thou shouldest set thine heart upon him?  
 And that thou shouldest visit him every morning, and try him every moment?  
 How long wilt thou not depart from me, nor let me alone till I swallow down my spittle?  
@@ -7323,7 +7315,7 @@ ____
 
 [verse]
 ____
-Job, Ch 10, 1-7
+Ch 10, 1-7
 My soul is weary of my life; I will leave my complaint upon myself; I will speak in the bitterness of my soul.
 I will say unto God, Do not condemn me; shew me wherefore thou contendest with me. 
 Is it good unto thee that thou shouldest oppress, that thou shouldest despise the work of thine hands, and shine upon the counsel of the wicked?  
@@ -7333,28 +7325,19 @@ That thou inquirest after mine iniquity, and searchest after my sin? 
 Thou knowest that I am not wicked; and there is none that can deliver out of thine hand.
 ____
 
-
+===== King James Bible, Timothy
 [verse]
 ____
-Timothy, Ch. 6, 3-12
+Ch. 6, 3-12
 If any man teach otherwise, and consent not to wholesome words, even the words of our Lord Jesus Christ, and to the doctrine which is according to godliness;
-
 He is proud, knowing nothing, but doting about questions and strifes of words, whereof cometh envy, strife, railings, evil surmisings,
-
 Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw thyself.
-
 But godliness with contentment is great gain.
-
 For we brought nothing into this world, and it is certain we can carry nothing out.
-
 And having food and raiment let us be therewith content.
-
 But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition.
-
 For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.
-
 But thou, O man of God, flee these things; and follow after righteousness, godliness, faith, love, patience, meekness.
-
 Fight the good fight of faith, lay hold on eternal life, whereunto thou art also called, and hast professed a good profession before many witnesses.
 ____
 
