@@ -7271,33 +7271,10 @@ ____
 [verse]
 ____
 Ecclesiastes, Ch. 9 
-Live joyfully with the wife whom thou lovest all the days of the life of thy  
-
-vanity, which he hath given thee under the sun, all the days of thy vanity:  
-
-for that is thy portion in this life, and in thy labour which thou takest  
-
-under the sun. 
-
-Whatsoever thy hand findeth to do, do it with thy might; for there is  
-
-no work, nor device, nor knowledge, nor wisdom, in the grave,  
-
-whither thou goest. 
-
-I returned, and saw under the sun, that the race is not to the swift,  
-
-nor the battle to the strong, neither yet bread to the wise, nor yet riches  
-
-to men of understanding, nor yet favour to men of skill; but time and  
-
-chance happeneth to them all. 
-
-For man also knoweth not his time: as the fishes that are taken in an evil net,  
-
-and as the birds that are caught in the snare; so are the sons of men  
-
-snared in an evil time, when it falleth suddenly upon them. 
+Live joyfully with the wife whom thou lovest all the days of the life of thy vanity, which he hath given thee under the sun, all the days of thy vanity: for that is thy portion in this life, and in thy labour which thou takest  under the sun. 
+Whatsoever thy hand findeth to do, do it with thy might; for there is  no work, nor device, nor knowledge, nor wisdom, in the grave,  whither thou goest. 
+I returned, and saw under the sun, that the race is not to the swift,  nor the battle to the strong, neither yet bread to the wise, nor yet riches  to men of understanding, nor yet favour to men of skill; but time and  chance happeneth to them all. 
+For man also knoweth not his time: as the fishes that are taken in an evil net,  and as the birds that are caught in the snare; so are the sons of men  snared in an evil time, when it falleth suddenly upon them. 
 ____
 
 [verse]
@@ -7310,6 +7287,7 @@ Why is light given to a man whose way is hid, and whom God hath hedged in? 
 For my sighing cometh before I eat, and my roarings are poured out like the waters. 
 For the thing which I greatly feared is come upon me, and that which I was afraid of is come unto me. 
 I was not in safety, neither had I rest, neither was I quiet; yet trouble came.
+____
 
 [verse]
 ____
@@ -7318,6 +7296,7 @@ What is my strength, that I should hope? and what is mine end, that I should pro
 Is my strength the strength of stones? or is my flesh of brass?  
 Is not my help in me? and is wisdom driven quite from me?  
 To him that is afflicted pity should be shewed from his friend; but he forsaketh the fear of the Almighty.
+____
 
 [verse]
 ____
