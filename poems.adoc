@@ -7330,6 +7330,7 @@ My flesh is clothed with worms and clods of dust; my skin is broken, and become 
 My days are swifter than a weaver’s shuttle, and are spent without hope. 
 O remember that my life is wind: mine eye shall no more see good. 
 The eye of him that hath seen me shall see me no more: thine eyes are upon me, and I am not.
+____
 
 [verse]
 ____
@@ -7339,6 +7340,7 @@ And that thou shouldest visit him every morning, and try him every moment? 
 How long wilt thou not depart from me, nor let me alone till I swallow down my spittle?  
 I have sinned; what shall I do unto thee, O thou preserver of men? why hast thou set me as a mark against thee, so that I am a burden to myself?  
 And why dost thou not pardon my transgression, and take away mine iniquity? for now shall I sleep in the dust; and thou shalt seek me in the morning, but I shall not be.
+____
 
 [verse]
 ____
@@ -7350,7 +7352,7 @@ Hast thou eyes of flesh? or seest thou as man seeth? 
 Are thy days as the days of man? are thy years as man’s days,  
 That thou inquirest after mine iniquity, and searchest after my sin? 
 Thou knowest that I am not wicked; and there is none that can deliver out of thine hand.
-
+____
 
 
 [verse]
